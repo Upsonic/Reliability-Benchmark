@@ -19,13 +19,13 @@ uv sync
 3. Run the benchmark
 
 ```bash
-python run_benchmark.py
+uv run run_benchmark.py
 ```
 
 4. Compare the results
 
 ```bash
-python compare_results.py
+uv run compare_results.py
 ```
 
 
