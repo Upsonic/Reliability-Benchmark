@@ -1,0 +1,1 @@
+main_prompt = f"Extract product information from the given product api results"

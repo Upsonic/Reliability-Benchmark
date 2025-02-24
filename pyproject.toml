@@ -1,0 +1,26 @@
+[project]
+name = "reliability-benchmark"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Onur ULUSOY", email = "atadogan06@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "agno>=1.1.5",
+    "azure-ai-inference>=1.0.0b9",
+    "crewai>=0.102.0",
+    "langchain>=0.3.19",
+    "langchain-openai>=0.3.7",
+    "langgraph>=0.2.74",
+    "streamlit>=1.42.2",
+    "upsonic>=0.44.2",
+]
+
+[project.scripts]
+reliability-benchmark = "reliability_benchmark:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
