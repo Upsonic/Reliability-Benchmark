@@ -34,9 +34,18 @@ uv sync
 
 3. Set your envinronment variable in `.env`
 ```console
+# for Upsonic
 AZURE_OPENAI_ENDPOINT="https://**.com/"
 AZURE_OPENAI_API_VERSION="****-**-**"
 AZURE_OPENAI_API_KEY="***"
+
+# for CrewAI
+AZURE_API_KEY="***"
+AZURE_API_BASE="https://**.com/"
+AZURE_API_VERSION="****-**-**"
+
+#for LangGraph
+OPENAI_API_VERSION="****-**-**"
 ```
 
 4. Run the benchmark
