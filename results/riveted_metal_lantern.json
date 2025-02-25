@@ -1,0 +1,557 @@
+{
+  "Upsonic": {
+    "general_information": {
+      "model": "CVCHI123",
+      "brand": "",
+      "upc": 0,
+      "asin": "",
+      "product_name": "Riveted Metal Lantern",
+      "specifier": "",
+      "fullName": "",
+      "description": "5.9*5.7*10.2*15\"H METAL LANTERN 1PC UPS, 6PCS MCTN\\/2.44'. A versatile, stylish piece for any space.",
+      "product_class": "",
+      "origin": ""
+    },
+    "spec": {
+      "length": 6.0,
+      "width": 55.0,
+      "height": 15.0,
+      "weight": 0.0,
+      "dominantColor": [],
+      "dominantColorFamily": [],
+      "dominantColorTerm": [],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [],
+      "secondaryColorFamily": [],
+      "secondaryColorTerm": [],
+      "patternType": [
+        "solid"
+      ],
+      "motiff": ""
+    },
+    "product_class": {
+      "category": [],
+      "collection": [],
+      "style": []
+    },
+    "make": {
+      "primaryMaterials": [
+        "metal"
+      ],
+      "primaryMaterialDetails": "metal lantern",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "",
+      "finishDetails": ""
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "None",
+      "nmfc": "None",
+      "packUnit": "BOX",
+      "packageCount": 0,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0,
+      "girth": 0.0,
+      "weight": 0.0,
+      "cubeFt": 0.0,
+      "cubeM": 0.0,
+      "HsCode": "None",
+      "CisCode": "None"
+    },
+    "marketing": {
+      "longDescription": "5.9*5.7*10.2*15\"H METAL LANTERN 1PC UPS, 6PCS MCTN\\/2.44'",
+      "keywords": [],
+      "designer": "",
+      "licensedName": "Riveted Metal Lantern",
+      "url": "",
+      "seoTitle": "Riveted Metal Lantern",
+      "seoDescription": "",
+      "seoKeywords": []
+    },
+    "usage": {
+      "indoor": "",
+      "outdoor": "",
+      "uvResist": "",
+      "weatherResist": "",
+      "waterResist": "",
+      "foodsafe": "",
+      "commercial": "",
+      "adaCompliant": "",
+      "installRequired": "",
+      "assemblyRequired": "",
+      "toolsIncluded": "",
+      "intendedEnvironment": "",
+      "ingressProtection": "",
+      "ageGroup": "",
+      "roomType": [],
+      "careInstructions": "",
+      "instructions": "",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "None",
+      "recycled": "None",
+      "certification": "None",
+      "sustainability": "None",
+      "fairtrade": "None"
+    },
+    "compliance": {
+      "warranty": "",
+      "policy": "",
+      "policyLink": "",
+      "prop65": ""
+    }
+  },
+  "Phi": {
+    "general_information": {
+      "model": "CVCHI123",
+      "brand": "Awesomeview",
+      "upc": 883581078596,
+      "asin": "",
+      "product_name": "Riveted Metal Lantern",
+      "specifier": "5.9*5.7*10.2*15 inches",
+      "fullName": "Riveted Metal Lantern, 5.9*5.7*10.2*15 inches",
+      "description": "A durable metal lantern with a size of 5.9*5.7*10.2*15 inches, perfect for various settings.",
+      "product_class": "Lighting",
+      "origin": ""
+    },
+    "spec": {
+      "length": 6.0,
+      "width": 55.0,
+      "height": 15.0,
+      "weight": 1.5,
+      "dominantColor": [
+        "metallic gray"
+      ],
+      "dominantColorFamily": [
+        "gray"
+      ],
+      "dominantColorTerm": [
+        "Industrial Gray"
+      ],
+      "dominantColorSaturation": "vibrant",
+      "secondaryColor": [
+        "-"
+      ],
+      "secondaryColorFamily": [
+        "-"
+      ],
+      "secondaryColorTerm": [
+        "-"
+      ],
+      "patternType": [
+        "solid"
+      ],
+      "motiff": "Riveted design"
+    },
+    "product_class": {
+      "category": [
+        "Lanterns",
+        "Home Decor"
+      ],
+      "collection": [
+        "Timeless",
+        "Accent Pieces"
+      ],
+      "style": [
+        "Industrial",
+        "Rustic"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "metal"
+      ],
+      "primaryMaterialDetails": "n/a",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "",
+      "finishDetails": ""
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "100",
+      "nmfc": "12345",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 6.0,
+      "width": 5.7,
+      "height": 15.0,
+      "girth": 40.4,
+      "weight": 2.0,
+      "cubeFt": 2.44,
+      "cubeM": 0.07,
+      "HsCode": "9405.10",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The Riveted Metal Lantern features a distinct metal construction with dimension of 5.9*5.7*10.2*15 inches and is suitable for diverse occasions. It is crafted with precision, making it a durable and visually captivating item.",
+      "keywords": [
+        "lantern",
+        "metal",
+        "Riveted",
+        "decor"
+      ],
+      "designer": "Not specified",
+      "licensedName": "Riveted Metal Lantern",
+      "url": "manufacturerwebsite.com/products/10625",
+      "seoTitle": "Purchase the Exquisite Riveted Metal Lantern",
+      "seoDescription": "Explore the Riveted Metal Lantern, designed for a unique aesthetic appeal and functionality.",
+      "seoKeywords": [
+        "lantern",
+        "metal decor",
+        "home items",
+        "Riveted Metal Lantern"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "YES",
+      "uvResist": "NO",
+      "weatherResist": "NO",
+      "waterResist": "NO",
+      "foodsafe": "NO",
+      "commercial": "NO",
+      "adaCompliant": "NO",
+      "installRequired": "NO",
+      "assemblyRequired": "NO",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "DRY",
+      "ingressProtection": "",
+      "ageGroup": "ANY",
+      "roomType": [
+        "Living Room",
+        "Outdoor"
+      ],
+      "careInstructions": "Wipe clean with a dry cloth.",
+      "instructions": "To maintain the lantern's appearance, periodically clean using a dry, soft cloth to remove dust.",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "The Riveted Metal Lantern is primarily composed of metal, offering a sturdy and durable product construction.",
+      "recycled": "NO",
+      "certification": "The product has not specified any certifications.",
+      "sustainability": "The product emphasizes a durable build, minimizing waste over time.",
+      "fairtrade": "NO"
+    },
+    "compliance": {
+      "warranty": "No Warranty",
+      "policy": "No warranty policy applicable; product is for decorative purposes.",
+      "policyLink": "http://example.com/warranty-policy",
+      "prop65": "NO"
+    }
+  },
+  "Lang": {
+    "general_information": {
+      "model": "CVCHI123",
+      "brand": "AwesomeView",
+      "upc": 883581078596,
+      "asin": "B07RDG1H9N",
+      "product_name": "Riveted Metal Lantern",
+      "specifier": "5.9*5.7*10.2*15\"H Metal Lantern",
+      "fullName": "Riveted Metal Lantern, 5.9*5.7*10.2*15\"H Metal Lantern",
+      "description": "A riveted metal lantern of dimensions 5.9 x 5.7 x 10.2 inches, ideal for decoration.",
+      "product_class": "Decorative Lanterns",
+      "origin": "USA"
+    },
+    "spec": {
+      "length": 6.0,
+      "width": 55.0,
+      "height": 15.0,
+      "weight": 0.41,
+      "dominantColor": [
+        "silver"
+      ],
+      "dominantColorFamily": [
+        "gray"
+      ],
+      "dominantColorTerm": [
+        "metallic silver"
+      ],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [
+        "black"
+      ],
+      "secondaryColorFamily": [
+        "black"
+      ],
+      "secondaryColorTerm": [
+        "charcoal"
+      ],
+      "patternType": [
+        "solid"
+      ],
+      "motiff": "Riveted Metal"
+    },
+    "product_class": {
+      "category": [
+        "Home Decor",
+        "Accent Items"
+      ],
+      "collection": [
+        "Rustic Collection"
+      ],
+      "style": [
+        "Vintage",
+        "Industrial"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "metal"
+      ],
+      "primaryMaterialDetails": "riveted metal, alloy steel",
+      "additionalMaterials": [
+        "glass"
+      ],
+      "additionalMaterialsDetails": "tempered glass panels",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "metallic",
+      "finishDetails": "matte black"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "85",
+      "nmfc": "069000",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 6.0,
+      "width": 5.7,
+      "height": 10.2,
+      "girth": 10.2,
+      "weight": 2.0,
+      "cubeFt": 0.41,
+      "cubeM": 0.0116,
+      "HsCode": "8306.90.0000",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The Riveted Metal Lantern is a decorative and functional piece suitable for any living space. Crafted from durable metal, it features a riveted design that adds a rustic charm to your home decor.",
+      "keywords": [
+        "metal lantern",
+        "decorative lantern",
+        "riveted design"
+      ],
+      "designer": "N/A",
+      "licensedName": "",
+      "url": "awesomeview.com/products/CVCHI123",
+      "seoTitle": "Durable and Decorative Riveted Metal Lantern",
+      "seoDescription": "Discover the elegance and functionality of our Riveted Metal Lantern, perfect for enhancing your home decor with a rustic charm.",
+      "seoKeywords": [
+        "Riveted Metal Lantern",
+        "home decoration",
+        "rustic charm"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "YES",
+      "uvResist": "NO",
+      "weatherResist": "YES",
+      "waterResist": "YES",
+      "foodsafe": "NO",
+      "commercial": "NO",
+      "adaCompliant": "NO",
+      "installRequired": "NO",
+      "assemblyRequired": "NO",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "ANY",
+      "ingressProtection": "IP45",
+      "ageGroup": "ANY",
+      "roomType": [
+        "Outdoor",
+        "Living Room"
+      ],
+      "careInstructions": "Clean regularly with a damp cloth; avoid harsh chemicals.",
+      "instructions": "To maintain the quality of this metal lantern, clean it with a damp cloth and dry it immediately. Avoid using abrasive cleaners or submerging it in water.",
+      "instructionUrl": "http://www.example.com/care-instructions-riveted-lantern"
+    },
+    "environmental": {
+      "statement": "The Riveted Metal Lantern is a piece of decor made of durable materials.",
+      "recycled": "NO",
+      "certification": "Not certified",
+      "sustainability": "This product is designed considering functional longevity.",
+      "fairtrade": "NO"
+    },
+    "compliance": {
+      "warranty": "12 months",
+      "policy": "This product is covered by a limited warranty protecting against manufacturing defects.",
+      "policyLink": "https://www.awesomeview.com/warranty",
+      "prop65": "NO"
+    }
+  },
+  "Crew": {
+    "general_information": {
+      "model": "CVCHI123",
+      "brand": "awesomeview",
+      "upc": 883581078596,
+      "asin": "",
+      "product_name": "Riveted Metal Lantern",
+      "specifier": "5.9*5.7*10.2*15\"H METAL LANTERN 1PC UPS, 6PCS MCTN/2.44'",
+      "fullName": "Riveted Metal Lantern",
+      "description": "A stylish metal lantern with riveted design, suitable for decorative purposes or lighting.",
+      "product_class": "Metal decorative item",
+      "origin": ""
+    },
+    "spec": {
+      "length": 6.0,
+      "width": 55.0,
+      "height": 15.0,
+      "weight": 0.0,
+      "dominantColor": [
+        "93"
+      ],
+      "dominantColorFamily": [
+        "2844"
+      ],
+      "dominantColorTerm": [
+        "Riveted Metal Lantern"
+      ],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [],
+      "secondaryColorFamily": [],
+      "secondaryColorTerm": [],
+      "patternType": [
+        "solid"
+      ],
+      "motiff": "Metal Lantern"
+    },
+    "product_class": {
+      "category": [
+        "2834",
+        "3035",
+        "6024",
+        "6025",
+        "6026",
+        "6027"
+      ],
+      "collection": [
+        "4024",
+        "4030"
+      ],
+      "style": [
+        "4022",
+        "4019"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "Metal"
+      ],
+      "primaryMaterialDetails": "Riveted metal construction, associated with decorative or lighting purposes.",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "No",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "Metallic",
+      "finishDetails": "Smooth and riveted metallic finish for enhanced durability and aesthetic appearance."
+    },
+    "shipping": {
+      "method": "UPS",
+      "oversized": "No",
+      "class_": "Metal decorative item",
+      "nmfc": "",
+      "packUnit": "1PC",
+      "packageCount": 6,
+      "flatPack": "No",
+      "paletized": "No",
+      "length": 6.0,
+      "width": 55.0,
+      "height": 15.0,
+      "girth": 146.0,
+      "weight": 0.0,
+      "cubeFt": 0.41,
+      "cubeM": 0.01161,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The Riveted Metal Lantern is a stylish, high-quality decorative item made from a durable riveted metal construction. It features a smooth metallic finish and is designed for both aesthetic and functional purposes, suitable for use as a centerpiece or as ambient lighting. Measuring 5.9*5.7*10.2*15 inches in size, this lantern is compact yet striking, making it a versatile choice for home or commercial interiors. The lantern is part of an exquisite metal decorative collection and expresses a timeless appeal with its elegant finish and robust construction.",
+      "keywords": [
+        "Riveted Metal Lantern",
+        "Metal Lantern",
+        "Decorative Lighting",
+        "Stylish Lantern",
+        "Metallic Finish",
+        "Home Decor",
+        "Awesomeview Lantern",
+        "Durable Metal Lantern"
+      ],
+      "designer": "awesomeview",
+      "licensedName": "Riveted Metal Lantern",
+      "url": "",
+      "seoTitle": "Stylish Riveted Metal Lantern for Home & Decor",
+      "seoDescription": "Discover the Riveted Metal Lantern - a stylish, durable decorative lantern ideal for home, office, or any space needing a touch of elegance and function.",
+      "seoKeywords": [
+        "Metal Lantern",
+        "Riveted Decorative Lantern",
+        "Lighting Decor",
+        "Home Accessories",
+        "Durable Metal Design",
+        "Awesomeview Products"
+      ]
+    },
+    "usage": {
+      "indoor": "Yes",
+      "outdoor": "No",
+      "uvResist": "No",
+      "weatherResist": "No",
+      "waterResist": "No",
+      "foodsafe": "No",
+      "commercial": "Yes",
+      "adaCompliant": "No",
+      "installRequired": "No",
+      "assemblyRequired": "No",
+      "toolsIncluded": "No",
+      "intendedEnvironment": "Indoor",
+      "ingressProtection": "No",
+      "ageGroup": "Adult",
+      "roomType": [
+        "Living Room",
+        "Bedroom",
+        "Office",
+        "Hallway"
+      ],
+      "careInstructions": "Wipe clean with a dry cloth. Avoid using abrasive cleaners or water as this is not water-resistant.",
+      "instructions": "Unpack and place in the desired spot. Ensure the lantern is stable on flat surfaces.",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "The Riveted Metal Lantern is made from a durable riveted metal construction, designed for decorative purposes and functional lighting. It features a metallic finish which enhances its durability and aesthetic appeal. While it is not specified if recycled materials are used, its robust design suggests longevity, reducing the need for frequent replacements.",
+      "recycled": "No explicit information about the use of recycled materials in the production of this product is provided.",
+      "certification": "No certifications related to sustainability, environmental standards, or fair trade are mentioned for this product.",
+      "sustainability": "The product design suggests sustainability through its durable construction, which can ensure long-term use and reduce waste over time. However, no specific sustainability initiatives or claims are provided.",
+      "fairtrade": "No information or claims regarding fair trade practices or ethical production are available for this product."
+    },
+    "compliance": {
+      "warranty": "",
+      "policy": "",
+      "policyLink": "",
+      "prop65": ""
+    }
+  }
+}

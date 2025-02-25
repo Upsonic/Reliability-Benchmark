@@ -1,0 +1,584 @@
+{
+  "Upsonic": {
+    "general_information": {
+      "model": "CVFNR972",
+      "brand": "awesomeview",
+      "upc": 0,
+      "asin": "",
+      "product_name": "Canehill Sideboard",
+      "specifier": "Painted, Tan, Mango Wood",
+      "fullName": "Canehill Sideboard, Painted, Tan, Mango Wood",
+      "description": "The awesomeview Collection Bengal Manor 4-door Sideboard has a distressed look that brings a rustic style to your home. The light-brown and gray finish creates a neutral look that works with any decor style. The four doors on the sideboard have glass doors decorated with a geometric, diamond design. The doors open to reveal a middle shelf the length of the sideboard.",
+      "product_class": "Furniture",
+      "origin": ""
+    },
+    "spec": {
+      "length": 74.0,
+      "width": 18.0,
+      "height": 42.5,
+      "weight": 0.0,
+      "dominantColor": [],
+      "dominantColorFamily": [],
+      "dominantColorTerm": [],
+      "dominantColorSaturation": "",
+      "secondaryColor": [],
+      "secondaryColorFamily": [],
+      "secondaryColorTerm": [],
+      "patternType": [],
+      "motiff": ""
+    },
+    "product_class": {
+      "category": [],
+      "collection": [],
+      "style": []
+    },
+    "make": {
+      "primaryMaterials": [
+        "wood"
+      ],
+      "primaryMaterialDetails": "Mango",
+      "additionalMaterials": [
+        "Glass"
+      ],
+      "additionalMaterialsDetails": "Glass doors decorated with a geometric, diamond design",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "Painted",
+      "finishDetails": "Painted"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "",
+      "nmfc": "",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "YES",
+      "paletized": "NO",
+      "length": 48.0,
+      "width": 20.0,
+      "height": 76.0,
+      "girth": 0.0,
+      "weight": 0.0,
+      "cubeFt": 0.0,
+      "cubeM": 0.0,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The awesomeview Collection Bengal Manor 4-door Sideboard has a distressed look that brings a rustic style to your home. The light-brown and gray finish creates a neutral look that works with any decor style. The four doors on the sideboard have glass doors decorated with a geometric, diamond design. The doors open to reveal a middle shelf the length of the sideboard.",
+      "keywords": [],
+      "designer": "",
+      "licensedName": "",
+      "url": "",
+      "seoTitle": "Canehill Sideboard",
+      "seoDescription": "The awesomeview Collection Bengal Manor 4-door Sideboard has a distressed look that brings rustic style to your home. Fits any neutral decor.",
+      "seoKeywords": []
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "NO",
+      "uvResist": "",
+      "weatherResist": "",
+      "waterResist": "",
+      "foodsafe": "",
+      "commercial": "",
+      "adaCompliant": "",
+      "installRequired": "",
+      "assemblyRequired": "",
+      "toolsIncluded": "",
+      "intendedEnvironment": "",
+      "ingressProtection": "",
+      "ageGroup": "ADULT",
+      "roomType": [],
+      "careInstructions": "",
+      "instructions": "",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "The product is the Canehill Sideboard, created on May 17, 2019, under the awesomeview Collection. It features a painted mango wood construction with a light brown and gray finish. The sideboard has dimensions of 74 inches in length, 42.5 inches in height, and 18 inches in width, with a carton weight of 190 lbs and a volume of 37.01 cubic feet. It includes four doors with glass panels featuring a geometric diamond design, two shelves, and additional design elements like cord management ports and an anti-tip kit. The product is part of the Bengal Manor line and combines rustic style with versatility that fits various decor styles.",
+      "recycled": "None",
+      "certification": "None",
+      "sustainability": "None",
+      "fairtrade": "None"
+    },
+    "compliance": {
+      "warranty": "",
+      "policy": "",
+      "policyLink": "",
+      "prop65": ""
+    }
+  },
+  "Phi": {
+    "general_information": {
+      "model": "CVFNR972",
+      "brand": "awesomeview",
+      "upc": 883581119329,
+      "asin": "N/A",
+      "product_name": "Canehill Sideboard",
+      "specifier": "Painted Finish",
+      "fullName": "Canehill Sideboard, Painted Finish",
+      "description": "The awesomeview Collection Bengal Manor 4-door Sideboard has a distressed look that brings a rustic style to your home.",
+      "product_class": "Furniture",
+      "origin": "N/A"
+    },
+    "spec": {
+      "length": 74.0,
+      "width": 18.0,
+      "height": 42.5,
+      "weight": 85.0,
+      "dominantColor": [
+        "light-brown",
+        "gray"
+      ],
+      "dominantColorFamily": [
+        "brown",
+        "gray"
+      ],
+      "dominantColorTerm": [
+        "light-brown",
+        "gray"
+      ],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [
+        "tan"
+      ],
+      "secondaryColorFamily": [
+        "brown"
+      ],
+      "secondaryColorTerm": [
+        "tan"
+      ],
+      "patternType": [
+        "solid",
+        "geometric"
+      ],
+      "motiff": "diamond design"
+    },
+    "product_class": {
+      "category": [
+        "Sideboards",
+        "Furniture"
+      ],
+      "collection": [
+        "Bengal Manor"
+      ],
+      "style": [
+        "Rustic",
+        "Distressed"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "Mango wood"
+      ],
+      "primaryMaterialDetails": "Mango wood",
+      "additionalMaterials": [
+        "Glass panels"
+      ],
+      "additionalMaterialsDetails": "Partially glass for door features",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "Painted",
+      "finishDetails": "Distressed light-brown and gray painted finish"
+    },
+    "shipping": {
+      "method": "LTL",
+      "oversized": "NO",
+      "class_": "77.5",
+      "nmfc": "080000",
+      "packUnit": "PALLET",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "YES",
+      "length": 48.0,
+      "width": 20.0,
+      "height": 76.0,
+      "girth": 176.0,
+      "weight": 190.0,
+      "cubeFt": 39.58,
+      "cubeM": 1.12,
+      "HsCode": "9403.20.00",
+      "CisCode": "9403.20.90"
+    },
+    "marketing": {
+      "longDescription": "The Canehill Sideboard, a part of the awesomeview Collection, is a distressed rustic furniture piece with four glass-paneled doors showcasing a diamond pattern, offering a middle shelf perfect for storage needs.",
+      "keywords": [
+        "Canehill",
+        "Sideboard",
+        "Furniture",
+        "Rustic",
+        "Glass Doors"
+      ],
+      "designer": "Not specified",
+      "licensedName": "awesomeview Collection",
+      "url": "manufacturerwebsite.com/items/CVFNR972",
+      "seoTitle": "Canehill Sideboard - Distressed Rustic Storage Solution",
+      "seoDescription": "Explore the Canehill Sideboard featuring a unique rustic design with geometric glass doors, blending practicality with aesthetics for your home.",
+      "seoKeywords": [
+        "Canehill Sideboard",
+        "Rustic Storage",
+        "Geometric Design"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "NO",
+      "uvResist": "NO",
+      "weatherResist": "NO",
+      "waterResist": "NO",
+      "foodsafe": "NO",
+      "commercial": "NO",
+      "adaCompliant": "NO",
+      "installRequired": "NO",
+      "assemblyRequired": "NO",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "DRY",
+      "ingressProtection": "",
+      "ageGroup": "ANY",
+      "roomType": [
+        "Living Room",
+        "Dining Room"
+      ],
+      "careInstructions": "Use a soft, damp cloth for cleaning; avoid harsh chemicals.",
+      "instructions": "Detailed instructions can be found in the included manual.",
+      "instructionUrl": "https://awesomeview.com/care/Canehill_Sideboard"
+    },
+    "environmental": {
+      "statement": "This product is designed with environmental consciousness, utilizing sustainable materials.",
+      "recycled": "NO",
+      "certification": "No official certifications mentioned.",
+      "sustainability": "The sideboard is crafted primarily from Mango wood, a sustainable resource.",
+      "fairtrade": "NO"
+    },
+    "compliance": {
+      "warranty": "2 years",
+      "policy": "The product is covered under a 2-year warranty against manufacturing defects.",
+      "policyLink": "https://www.awesomeview-products.com/warranty-policy",
+      "prop65": "NO"
+    }
+  },
+  "Lang": {
+    "general_information": {
+      "model": "CVFNR972",
+      "brand": "AwesomeView",
+      "upc": 883581119329,
+      "asin": "B07SL98C5D",
+      "product_name": "Canehill Sideboard",
+      "specifier": "Four-Door, Painted Finish",
+      "fullName": "Canehill Sideboard, Four-Door, Painted Finish",
+      "description": "The Canehill Sideboard offers remarkable design and versatile storage, enhancing any decor.",
+      "product_class": "Furniture",
+      "origin": "IND"
+    },
+    "spec": {
+      "length": 74.0,
+      "width": 18.0,
+      "height": 42.5,
+      "weight": 85.0,
+      "dominantColor": [
+        "light-brown",
+        "gray"
+      ],
+      "dominantColorFamily": [
+        "brown",
+        "grey"
+      ],
+      "dominantColorTerm": [
+        "rustic light-brown",
+        "soft grey"
+      ],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [
+        "tan"
+      ],
+      "secondaryColorFamily": [
+        "beige"
+      ],
+      "secondaryColorTerm": [
+        "neutral tan"
+      ],
+      "patternType": [
+        "distressed",
+        "geometric"
+      ],
+      "motiff": "distressed, geometric diamond"
+    },
+    "product_class": {
+      "category": [
+        "Furniture",
+        "Sideboards",
+        "Storage Solutions"
+      ],
+      "collection": [
+        "Bengal Manor",
+        "Awesomeview"
+      ],
+      "style": [
+        "Rustic",
+        "Neutral",
+        "Distressed"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "Wood"
+      ],
+      "primaryMaterialDetails": "Mango",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "Painted",
+      "finishDetails": "Distressed painted finish"
+    },
+    "shipping": {
+      "method": "LTL",
+      "oversized": "YES",
+      "class_": "100",
+      "nmfc": "081430",
+      "packUnit": "PALLET",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "YES",
+      "length": 76.0,
+      "width": 48.0,
+      "height": 20.0,
+      "girth": 120.0,
+      "weight": 190.0,
+      "cubeFt": 42.22,
+      "cubeM": 1.2,
+      "HsCode": "94036090",
+      "CisCode": "9403.60.90"
+    },
+    "marketing": {
+      "longDescription": "The Canehill Sideboard, part of the esteemed awesomeview Collection, features a rustic yet refined design. This four-door sideboard boasts a Painted, light-brown and gray two-tone finish, and mango wood construction for a durable yet elegant finish. Glass accents highlight its geometric, diamond-inspired design, ensuring timeless aesthetic appeal. Ideal for storage, organization, and style in any home.",
+      "keywords": [
+        "Canehill Sideboard",
+        "Furniture",
+        "Rustic Design",
+        "Storage Solution",
+        "Mango Wood"
+      ],
+      "designer": "awesomeview Collection Team",
+      "licensedName": "Canehill Sideboard",
+      "url": "https://www.manufacturerwebsite.com/Canehill-Sideboard",
+      "seoTitle": "Canehill Sideboard: Rustic Design Enhanced by Natural Elegance",
+      "seoDescription": "Discover the Canehill Sideboard offering four doors, painted finish, and a touch of rustic charm.",
+      "seoKeywords": [
+        "sideboard",
+        "furniture",
+        "storage",
+        "rustic",
+        "design",
+        "elegant",
+        "practical"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "NO",
+      "uvResist": "NO",
+      "weatherResist": "NO",
+      "waterResist": "NO",
+      "foodsafe": "NO",
+      "commercial": "NO",
+      "adaCompliant": "NO",
+      "installRequired": "NO",
+      "assemblyRequired": "YES",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "DRY",
+      "ingressProtection": "",
+      "ageGroup": "ANY",
+      "roomType": [
+        "Dining Room",
+        "Living Room"
+      ],
+      "careInstructions": "Wipe with a soft, dry cloth. Avoid using abrasive or chemical cleaners.",
+      "instructions": "It is recommended to keep the surface clean and dry.",
+      "instructionUrl": "https://example.com/care-instructions"
+    },
+    "environmental": {
+      "statement": "The Canehill Sideboard is a stylish piece crafted with sustainability in mind.",
+      "recycled": "NO",
+      "certification": "The Canehill Sideboard does not have specific certifications listed.",
+      "sustainability": "The sideboard is made predominantly of mango wood, a sustainable material as mango trees are cultivated for their fruit and repurposed for wood when they've completed fruit-bearing.",
+      "fairtrade": "NO"
+    },
+    "compliance": {
+      "warranty": "1 year",
+      "policy": "The product is covered under a 1-year limited warranty covering manufacturing defects.",
+      "policyLink": "https://www.awesomeview.com/pages/warranty",
+      "prop65": "YES"
+    }
+  },
+  "Crew": {
+    "general_information": {
+      "model": "CVFNR972",
+      "brand": "awesomeview",
+      "upc": 883581119329,
+      "asin": "",
+      "product_name": "Canehill Sideboard",
+      "specifier": "Four Doors, Two Shelves, Cord Management Ports, Tack-In Floor Glides, Anti-Tip Kit",
+      "fullName": "Canehill Four-Door Sideboard",
+      "description": "The awesomeview Collection Bengal Manor 4-door Sideboard has a distressed look that brings a rustic style to your home. The light-brown and gray finish creates a neutral look that works with any decor style. The four doors on the sideboard have glass doors decorated with a geometric, diamond design. The doors open to reveal a middle shelf the length of the sideboard.",
+      "product_class": "Furniture",
+      "origin": "Mango Wood"
+    },
+    "spec": {
+      "length": 74.0,
+      "width": 18.0,
+      "height": 42.5,
+      "weight": 85.0,
+      "dominantColor": [
+        "Gray"
+      ],
+      "dominantColorFamily": [
+        "Cool Neutrals"
+      ],
+      "dominantColorTerm": [
+        "Light Brown and Gray Finish"
+      ],
+      "dominantColorSaturation": "Neutral",
+      "secondaryColor": [
+        "Tan"
+      ],
+      "secondaryColorFamily": [
+        "Warm Neutrals"
+      ],
+      "secondaryColorTerm": [
+        "Tan"
+      ],
+      "patternType": [
+        "Geometric",
+        "Diamond Design"
+      ],
+      "motiff": "Distressed Look with Rustic Style"
+    },
+    "product_class": {
+      "category": [
+        "2836",
+        "4126",
+        "6023",
+        "6058",
+        "6031",
+        "6025",
+        "6026",
+        "6323",
+        "6324"
+      ],
+      "collection": [
+        "35"
+      ],
+      "style": [
+        "4022",
+        "4019"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "Mango Wood"
+      ],
+      "primaryMaterialDetails": "The product is primarily made from mango wood, which is a durable and sustainable hardwood often used for furniture making.",
+      "additionalMaterials": [
+        "Glass"
+      ],
+      "additionalMaterialsDetails": "The sideboard includes glass door panels with a geometric, diamond design.",
+      "containsTextile": "No",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "Painted",
+      "finishDetails": "The piece has a light-brown and gray painted finish that provides a neutral distressed look, enhancing its rustic style."
+    },
+    "shipping": {
+      "method": "Freight",
+      "oversized": "Yes",
+      "class_": "Furniture",
+      "nmfc": "080860",
+      "packUnit": "Piece",
+      "packageCount": 1,
+      "flatPack": "No",
+      "paletized": "No",
+      "length": 74.0,
+      "width": 18.0,
+      "height": 42.5,
+      "girth": 138.5,
+      "weight": 85.0,
+      "cubeFt": 37.01,
+      "cubeM": 1.05,
+      "HsCode": "940360",
+      "CisCode": "4101"
+    },
+    "marketing": {
+      "longDescription": "The awesomeview Collection Bengal Manor 4-door Sideboard has a distressed look that brings a rustic style to your home. The light-brown and gray finish creates a neutral look that works with any decor style. The four doors on the sideboard have glass panels decorated with a geometric, diamond design. These doors open to reveal a middle shelf spanning the length of the sideboard, offering ample storage and functionality. Crafted mainly from mango wood for durability, the piece also features additional glass elements and a painted finish that aligns with its rustic theme. Design features include four doors, two shelves, cord management ports, tack-in floor glides, and an anti-tip kit, combining beauty with utility.",
+      "keywords": [
+        "Canehill Sideboard",
+        "Four-Door Sideboard",
+        "Rustic Style Furniture",
+        "Neutral Furniture Finish",
+        "Geometric Design",
+        "Diamond Design Doors",
+        "Mango Wood Furniture",
+        "Distressed Look Sideboard",
+        "Awesomeview Collection",
+        "Bengal Manor Furniture"
+      ],
+      "designer": "awesomeview",
+      "licensedName": "Canehill Sideboard",
+      "url": "",
+      "seoTitle": "Canehill Sideboard",
+      "seoDescription": "The awesomeview Collection Bengal Manor 4-door Sideboard has a distressed look that brings a rustic style to your home. The light-brown and gray finish creates a neutral look that works with any decor style. The four glass doors decorated with a geometric, diamond design open to reveal a middle shelf spanning the length of the sideboard.",
+      "seoKeywords": [
+        "Rustic Sideboard",
+        "Neutral Finish Furniture",
+        "Mango Wood Furniture",
+        "Geometric Door Design",
+        "Distressed Sideboard Furniture"
+      ]
+    },
+    "usage": {
+      "indoor": "Yes",
+      "outdoor": "No",
+      "uvResist": "No",
+      "weatherResist": "No",
+      "waterResist": "No",
+      "foodsafe": "No",
+      "commercial": "No",
+      "adaCompliant": "No",
+      "installRequired": "No",
+      "assemblyRequired": "No",
+      "toolsIncluded": "No",
+      "intendedEnvironment": "Residential",
+      "ingressProtection": "None",
+      "ageGroup": "Adults",
+      "roomType": [
+        "Dining Room",
+        "Living Room",
+        "Hallway"
+      ],
+      "careInstructions": "Wipe with a dry or slightly damp cloth. Avoid using harsh chemicals or abrasive materials.",
+      "instructions": "Place the sideboard on a flat, stable surface. Ensure safety features like the anti-tip kit are properly utilized as necessary.",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "The Canehill Sideboard, sourced from the awesomeview Collection, is a four-door sideboard with a rustic design crafted predominantly from mango wood, a sustainable and durable hardwood. With its light-brown and gray painted finish, it emphasizes a distressed and neutral aesthetic suitable for various interior styles. Additional design features include geometric glass door panels, cord management ports, and an anti-tip kit for added safety, offering both utility and visual appeal. This product is tailored for residential use, primarily in dining rooms, living rooms, or hallways.",
+      "recycled": "This product does not explicitly utilize recycled materials; however, the use of mango wood highlights its nature as a renewable and eco-friendly resource, often derived from retired, non-fruit-bearing trees.",
+      "certification": "No formal environmental or sustainability certifications have been specified for this product.",
+      "sustainability": "The use of mango wood as its primary material makes the Canehill Sideboard a relatively sustainable choice. Mango wood is a byproduct of the agricultural industry, turning what would typically go to waste into durable and functional furniture.",
+      "fairtrade": "No details about fair-trade practices or certifications could be identified from the available information."
+    },
+    "compliance": {
+      "warranty": "No explicit warranty information provided. Warranty details may depend on the retailer or distributor's policies.",
+      "policy": "No specific return or exchange policy information available. Consumers should consult the seller or retailer for precise terms.",
+      "policyLink": "No policy link provided in the data. Contacting the retailer directly is recommended for more details.",
+      "prop65": "No Proposition 65 warning information is provided in the context, indicating no identified potential exposure to harmful substances covered under California's Proposition 65."
+    }
+  }
+}

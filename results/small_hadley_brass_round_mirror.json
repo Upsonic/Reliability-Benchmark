@@ -1,0 +1,548 @@
+{
+  "Upsonic": {
+    "general_information": {
+      "model": "CVMZRN5436",
+      "brand": "awesomeview",
+      "upc": 0,
+      "asin": "",
+      "product_name": "Small Hadley Brass Round Mirror",
+      "specifier": "18'' Round UPS PACK with Rope",
+      "fullName": "Small Hadley Brass Round Mirror, 18'' Round UPS PACK with Rope",
+      "description": "18\" Round Mirror with Rope 1PCS UPS PACK / 1.16'",
+      "product_class": "",
+      "origin": ""
+    },
+    "spec": {
+      "length": 18.0,
+      "width": 2.0,
+      "height": 18.0,
+      "weight": 0.0,
+      "dominantColor": [],
+      "dominantColorFamily": [],
+      "dominantColorTerm": [],
+      "dominantColorSaturation": "",
+      "secondaryColor": [],
+      "secondaryColorFamily": [],
+      "secondaryColorTerm": [],
+      "patternType": [],
+      "motiff": ""
+    },
+    "product_class": {
+      "category": [],
+      "collection": [],
+      "style": []
+    },
+    "make": {
+      "primaryMaterials": [],
+      "primaryMaterialDetails": "Brass",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "",
+      "finishDetails": "Brass"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "",
+      "nmfc": "",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 21.5,
+      "width": 5.0,
+      "height": 20.5,
+      "girth": 0.0,
+      "weight": 8.39,
+      "cubeFt": 1.28,
+      "cubeM": 0.0,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "",
+      "keywords": [],
+      "designer": "",
+      "licensedName": "Small Hadley Brass Round Mirror",
+      "url": "",
+      "seoTitle": "Small Hadley Brass Round Mirror - Elegant Home Decor Accent",
+      "seoDescription": "",
+      "seoKeywords": []
+    },
+    "usage": {
+      "indoor": "",
+      "outdoor": "",
+      "uvResist": "",
+      "weatherResist": "",
+      "waterResist": "",
+      "foodsafe": "",
+      "commercial": "",
+      "adaCompliant": "",
+      "installRequired": "",
+      "assemblyRequired": "",
+      "toolsIncluded": "",
+      "intendedEnvironment": "",
+      "ingressProtection": "",
+      "ageGroup": "",
+      "roomType": [],
+      "careInstructions": "",
+      "instructions": "",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "",
+      "recycled": "",
+      "certification": "",
+      "sustainability": "",
+      "fairtrade": ""
+    },
+    "compliance": {
+      "warranty": "None",
+      "policy": "None",
+      "policyLink": "None",
+      "prop65": "None"
+    }
+  },
+  "Phi": {
+    "general_information": {
+      "model": "CVMZRN5436",
+      "brand": "Hadley",
+      "upc": 883581156287,
+      "asin": "",
+      "product_name": "Small Round Mirror",
+      "specifier": "Brass, 18 inches",
+      "fullName": "Small Hadley Brass Round Mirror, 18\" Round",
+      "description": "18\" Round Mirror with Rope",
+      "product_class": "Home Decor - Mirrors",
+      "origin": "--"
+    },
+    "spec": {
+      "length": 18.0,
+      "width": 2.0,
+      "height": 18.0,
+      "weight": 8.39,
+      "dominantColor": [],
+      "dominantColorFamily": [],
+      "dominantColorTerm": [],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [],
+      "secondaryColorFamily": [],
+      "secondaryColorTerm": [],
+      "patternType": [],
+      "motiff": "Brass encasement"
+    },
+    "product_class": {
+      "category": [
+        "Decorative Accents",
+        "Mirrors"
+      ],
+      "collection": [
+        "None"
+      ],
+      "style": [
+        "Traditional"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "Glass",
+        "Metal"
+      ],
+      "primaryMaterialDetails": "Brass frame",
+      "additionalMaterials": [
+        "None"
+      ],
+      "additionalMaterialsDetails": "None",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "Polished",
+      "finishDetails": "Polished brass"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "",
+      "nmfc": "",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 21.5,
+      "width": 5.0,
+      "height": 20.5,
+      "girth": 53.0,
+      "weight": 8.39,
+      "cubeFt": 1.28,
+      "cubeM": 0.036,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The Small Hadley Brass Round Mirror is an 18-inch round mirror with a stylish rope accent, crafted for elegance and utility in any living space.",
+      "keywords": [
+        "mirror",
+        "brass",
+        "round",
+        "decor",
+        "home"
+      ],
+      "designer": "Awesome View",
+      "licensedName": "",
+      "url": "https://company.com/CVMZRN5436",
+      "seoTitle": "Small Hadley Brass Round Mirror - Elegant Home Decor",
+      "seoDescription": "Discover the Small Hadley Brass Round Mirror, an exquisite piece for your home decor.",
+      "seoKeywords": [
+        "mirror",
+        "brass",
+        "round",
+        "decor",
+        "interior"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "NO",
+      "uvResist": "NO",
+      "weatherResist": "NO",
+      "waterResist": "NO",
+      "foodsafe": "NO",
+      "commercial": "NO",
+      "adaCompliant": "NO",
+      "installRequired": "NO",
+      "assemblyRequired": "NO",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "DRY",
+      "ingressProtection": "",
+      "ageGroup": "ANY",
+      "roomType": [
+        "Living Room",
+        "Bedroom",
+        "Multi-Use"
+      ],
+      "careInstructions": "",
+      "instructions": "",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "This product is made with a focus on durability and style, using brass materials known for longevity.",
+      "recycled": "NO",
+      "certification": "Meets standard safety requirements for the furniture category.",
+      "sustainability": "Designed to be a long-lasting and timeless home decor item.",
+      "fairtrade": "NO"
+    },
+    "compliance": {
+      "warranty": "1 year",
+      "policy": "The product includes a standard warranty against defects under normal use conditions.",
+      "policyLink": "https://www.example.com/warranty-details",
+      "prop65": "NO"
+    }
+  },
+  "Lang": {
+    "general_information": {
+      "model": "CVMZRN5436",
+      "brand": "AwesomeView",
+      "upc": 883581156287,
+      "asin": "B07VBQ56CZ",
+      "product_name": "Small Hadley Brass Round Mirror",
+      "specifier": "18\" Round with Rope",
+      "fullName": "Small Hadley Brass Round Mirror, 18\" Round with Rope",
+      "description": "A stylish brass mirror with a small hadley round design and rope accent, 18-inch diameter.",
+      "product_class": "Furniture",
+      "origin": "USA"
+    },
+    "spec": {
+      "length": 18.0,
+      "width": 2.0,
+      "height": 18.0,
+      "weight": 8.39,
+      "dominantColor": [
+        "brass"
+      ],
+      "dominantColorFamily": [
+        "yellow"
+      ],
+      "dominantColorTerm": [
+        "brass"
+      ],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [
+        "none"
+      ],
+      "secondaryColorFamily": [
+        "none"
+      ],
+      "secondaryColorTerm": [
+        "none"
+      ],
+      "patternType": [
+        "solid"
+      ],
+      "motiff": ""
+    },
+    "product_class": {
+      "category": [
+        "Home D\u00e9cor",
+        "Mirrors"
+      ],
+      "collection": [
+        "Timeless"
+      ],
+      "style": [
+        "Minimal",
+        "Contemporary"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "glass",
+        "brass"
+      ],
+      "primaryMaterialDetails": "glass mirror, brass frame",
+      "additionalMaterials": [
+        "rope"
+      ],
+      "additionalMaterialsDetails": "Decorative hanging rope",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "polished",
+      "finishDetails": "polished brass"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "125",
+      "nmfc": "069100",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 21.5,
+      "width": 5.0,
+      "height": 20.5,
+      "girth": 51.0,
+      "weight": 8.39,
+      "cubeFt": 1.28,
+      "cubeM": 0.0363,
+      "HsCode": "7009.92.1000",
+      "CisCode": "7009929000"
+    },
+    "marketing": {
+      "longDescription": "The Small Hadley Brass Round Mirror combines elegance with versatility, featuring a charming 18-inch diameter design and a sturdy rope for hanging.",
+      "keywords": [
+        "mirror",
+        "brass",
+        "round",
+        "decor",
+        "home"
+      ],
+      "designer": "Hadley Creations",
+      "licensedName": "Small Hadley",
+      "url": "https://awesomeview.com/products/small-hadley-brass-round-mirror",
+      "seoTitle": "Elegant Small Hadley Brass Round Mirror Home Decor",
+      "seoDescription": "Explore the Small Hadley Brass Round Mirror, an 18-inch decorative accessory enhancing any living space.",
+      "seoKeywords": [
+        "Small Hadley",
+        "brass mirror",
+        "round decor"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "NO",
+      "uvResist": "NO",
+      "weatherResist": "NO",
+      "waterResist": "NO",
+      "foodsafe": "NO",
+      "commercial": "NO",
+      "adaCompliant": "NO",
+      "installRequired": "NO",
+      "assemblyRequired": "NO",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "DRY",
+      "ingressProtection": "N/A",
+      "ageGroup": "ANY",
+      "roomType": [
+        "Living Room",
+        "Bedroom",
+        "Hallway"
+      ],
+      "careInstructions": "Clean with a soft, dry cloth.",
+      "instructions": "Use a non-abrasive cleaning cloth to maintain the finish.",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "This product is a round mirror with brass finishing",
+      "recycled": "NO",
+      "certification": "Not specified",
+      "sustainability": "The product is durable and designed for long-term use",
+      "fairtrade": "NO"
+    },
+    "compliance": {
+      "warranty": "1 year",
+      "policy": "All products include a limited one-year warranty covering manufacturing defects.",
+      "policyLink": "http://example.com/warranty",
+      "prop65": "NO"
+    }
+  },
+  "Crew": {
+    "general_information": {
+      "model": "CVMZRN5436",
+      "brand": "awesomeview",
+      "upc": 883581156287,
+      "asin": "",
+      "product_name": "Small Hadley Brass Round Mirror",
+      "specifier": "18\" Round Mirror with Rope 1PCS UPS PACK / 1.16'",
+      "fullName": "Small Hadley Brass Round Mirror by awesomeview",
+      "description": "18 inch round mirror featuring a rope detail and brass finish, suitable for home decor. This product is lightweight and compact for easy shipping purposes.",
+      "product_class": "Home Decor / Mirror",
+      "origin": "Manufactured details not provided"
+    },
+    "spec": {
+      "length": 18.0,
+      "width": 2.0,
+      "height": 18.0,
+      "weight": 8.39,
+      "dominantColor": [
+        "Brass"
+      ],
+      "dominantColorFamily": [
+        "Yellow"
+      ],
+      "dominantColorTerm": [
+        "Metallic"
+      ],
+      "dominantColorSaturation": "Medium",
+      "secondaryColor": [
+        "Natural Rope"
+      ],
+      "secondaryColorFamily": [
+        "Brown"
+      ],
+      "secondaryColorTerm": [
+        "Earthy"
+      ],
+      "patternType": [
+        "Solid"
+      ],
+      "motiff": "Rope Detail with Minimalist Design"
+    },
+    "product_class": {
+      "category": [
+        "2841",
+        "915"
+      ],
+      "collection": [
+        "2927"
+      ],
+      "style": [
+        "4044"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "Brass"
+      ],
+      "primaryMaterialDetails": "The product primarily uses brass for its construction, giving it a metallic finish with medium saturation in yellow tones.",
+      "additionalMaterials": [
+        "Rope"
+      ],
+      "additionalMaterialsDetails": "The mirror features a natural rope detail, adding a secondary earthy and minimalist design element.",
+      "containsTextile": "No",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "Metallic",
+      "finishDetails": "The mirror has a brass finish, characterized by a shiny metallic surface with a medium saturation yellow tone."
+    },
+    "shipping": {
+      "method": "UPS",
+      "oversized": "No",
+      "class_": "Home Decor",
+      "nmfc": "",
+      "packUnit": "1PCS",
+      "packageCount": 1,
+      "flatPack": "No",
+      "paletized": "No",
+      "length": 21.5,
+      "width": 5.0,
+      "height": 20.5,
+      "girth": 51.0,
+      "weight": 8.39,
+      "cubeFt": 1.28,
+      "cubeM": 0.0362,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The Small Hadley Brass Round Mirror by awesomeview is an 18-inch round decorative mirror featuring a sophisticated brass finish and a natural rope detail. This piece merges elegance with a minimalist design, making it ideal for enhancing various home decor aesthetics. Lightweight and compact at 8.39 lbs, it's perfect for easy shipping and handling. With durable brass as the primary material and a natural rope accent, this mirror adds a touch of metallic and earthy tones to any space.",
+      "keywords": [
+        "Small Round Mirror",
+        "Brass Round Mirror",
+        "Hadley Mirror",
+        "Minimalist Decor",
+        "Rope Decorative Mirror",
+        "Metallic Home Accessories",
+        "awesomeview Mirror"
+      ],
+      "designer": "awesomeview",
+      "licensedName": "Small Hadley Brass Round Mirror",
+      "url": "",
+      "seoTitle": "Small Hadley Brass Round Mirror - Elegant Brass Finish with Rope Detail by awesomeview",
+      "seoDescription": "Upgrade your home decor with the Small Hadley Brass Round Mirror by awesomeview. This 18-inch mirror features a brass finish and a natural rope detail, blending elegance with timeless minimalist style. Lightweight and compact, it's perfect for modern living spaces.",
+      "seoKeywords": [
+        "Small Hadley Mirror",
+        "Brass Rope Round Mirror",
+        "awesomeview Home Decor",
+        "Round Mirror Brass Finish",
+        "Minimalist Mirrors",
+        "Decorative Wall Mirrors",
+        "Hadley Home Accessories"
+      ]
+    },
+    "usage": {
+      "indoor": "Yes",
+      "outdoor": "No",
+      "uvResist": "No",
+      "weatherResist": "No",
+      "waterResist": "No",
+      "foodsafe": "No",
+      "commercial": "No",
+      "adaCompliant": "No",
+      "installRequired": "No",
+      "assemblyRequired": "No",
+      "toolsIncluded": "No",
+      "intendedEnvironment": "Home Decor",
+      "ingressProtection": "None",
+      "ageGroup": "Adults",
+      "roomType": [
+        "Living Room",
+        "Bedroom",
+        "Entryway"
+      ],
+      "careInstructions": "Clean with a soft, dry cloth. Avoid using water or harsh cleaning agents on the brass finish and rope detail.",
+      "instructions": "Mount securely on the wall using appropriate hardware. Avoid areas with high humidity or direct sunlight for long periods to preserve the finish and rope detail.",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "The product primarily comprises brass and features a natural rope detail. Brass, as a durable and recyclable material, offers a sustainable value. However, there is no explicit mention of any recycled content or environmentally certified materials used in its construction. The product is designed for home decor and is not certified as fair trade nor does it mention specific sustainability guarantees.",
+      "recycled": "No specific information is provided regarding the use of recycled materials in the product.",
+      "certification": "No environmental or material certifications are explicitly stated for this product.",
+      "sustainability": "The primary material, brass, is inherently sustainable due to its recyclability. However, there is no explicit indication of eco-friendly practices or sustainable sourcing in the manufacturing process.",
+      "fairtrade": "The product does not mention compliance with fair trade principles or partnerships."
+    },
+    "compliance": {
+      "warranty": "Not specified for this product.",
+      "policy": "There is no explicitly stated policy provided in the available data.",
+      "policyLink": "No policy link is provided in the available information.",
+      "prop65": "There is no indication of California Proposition 65 compliance within the provided product details."
+    }
+  }
+}

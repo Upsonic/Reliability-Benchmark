@@ -1,0 +1,557 @@
+{
+  "Upsonic": {
+    "general_information": {
+      "model": "CVBZWF671",
+      "brand": "None",
+      "upc": 0,
+      "asin": "None",
+      "product_name": "Mercury",
+      "specifier": "None",
+      "fullName": "Mercury - Hand Finished",
+      "description": "40\" X 60\" abstract with silver PS outer frame 1PK/5.27'",
+      "product_class": "None",
+      "origin": "None"
+    },
+    "spec": {
+      "length": 41.5,
+      "width": 1.5,
+      "height": 61.5,
+      "weight": 17.6,
+      "dominantColor": [],
+      "dominantColorFamily": [],
+      "dominantColorTerm": [],
+      "dominantColorSaturation": "",
+      "secondaryColor": [],
+      "secondaryColorFamily": [],
+      "secondaryColorTerm": [],
+      "patternType": [],
+      "motiff": "Silver Foil"
+    },
+    "product_class": {
+      "category": [],
+      "collection": [],
+      "style": []
+    },
+    "make": {
+      "primaryMaterials": [],
+      "primaryMaterialDetails": "",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "Hand Finished",
+      "finishDetails": "Hand Finished"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "",
+      "nmfc": "",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 44.69,
+      "width": 3.15,
+      "height": 64.76,
+      "girth": 0.0,
+      "weight": 21.0,
+      "cubeFt": 5.27,
+      "cubeM": 0.14922,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The Mercury is a 40\" X 60\" abstract piece with a hand-finished silver PS outer frame. It features silver foil design and includes two wall hangers as part of its accessories. The product is meticulously crafted in the Silver color family. Additional dimensions include furniture length of 41.5\", depth of 1.5\", height of 61.5\", and weight of 17.6 lbs. The product carton measures 64.76\" x 44.69\" x 3.15\" and weighs 21 lbs. It includes a shipped cube volume of 5.27. Crafted with exceptional attention to detail, it's designed to add sophistication to any living space.",
+      "keywords": [],
+      "designer": "",
+      "licensedName": "",
+      "url": "",
+      "seoTitle": "",
+      "seoDescription": "",
+      "seoKeywords": []
+    },
+    "usage": {
+      "indoor": "None",
+      "outdoor": "None",
+      "uvResist": "None",
+      "weatherResist": "None",
+      "waterResist": "None",
+      "foodsafe": "None",
+      "commercial": "None",
+      "adaCompliant": "None",
+      "installRequired": "None",
+      "assemblyRequired": "None",
+      "toolsIncluded": "None",
+      "intendedEnvironment": "None",
+      "ingressProtection": "None",
+      "ageGroup": "None",
+      "roomType": [],
+      "careInstructions": "None",
+      "instructions": "None",
+      "instructionUrl": "None"
+    },
+    "environmental": {
+      "statement": "None",
+      "recycled": "None",
+      "certification": "None",
+      "sustainability": "None",
+      "fairtrade": "None"
+    },
+    "compliance": {
+      "warranty": "None",
+      "policy": "None",
+      "policyLink": "None",
+      "prop65": "None"
+    }
+  },
+  "Phi": {
+    "general_information": {
+      "model": "CVBZWF671",
+      "brand": "AwesomeView",
+      "upc": 883581146981,
+      "asin": "",
+      "product_name": "Mercury",
+      "specifier": "Hand Finished, Silver",
+      "fullName": "Mercury, Hand Finished, Silver",
+      "description": "40\" X 60\" abstract with silver PS outer frame 1PK\\/5.27'",
+      "product_class": "2841",
+      "origin": ""
+    },
+    "spec": {
+      "length": 41.5,
+      "width": 1.5,
+      "height": 61.5,
+      "weight": 17.6,
+      "dominantColor": [
+        "364"
+      ],
+      "dominantColorFamily": [
+        "4141"
+      ],
+      "dominantColorTerm": [
+        "Mercury Silver"
+      ],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [
+        "silver"
+      ],
+      "secondaryColorFamily": [
+        "Silver"
+      ],
+      "secondaryColorTerm": [
+        "Silver"
+      ],
+      "patternType": [
+        "pattern"
+      ],
+      "motiff": "Silver Foil"
+    },
+    "product_class": {
+      "category": [
+        "Abstract",
+        "Wall Art"
+      ],
+      "collection": [
+        "Modern Elegance"
+      ],
+      "style": [
+        "Contemporary",
+        "Minimalist"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [],
+      "primaryMaterialDetails": "Silver PS",
+      "additionalMaterials": [
+        "Silver"
+      ],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "Hand Finished",
+      "finishDetails": ""
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "",
+      "nmfc": "",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 44.69,
+      "width": 3.15,
+      "height": 64.76,
+      "girth": 0.0,
+      "weight": 21.0,
+      "cubeFt": 5.27,
+      "cubeM": 0.0,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The Mercury is a 40\" x 60\" abstract artwork complemented by a silver PS outer frame, designed to enhance modern interiors. Its hand-finished quality and minimalist design make it a centerpiece for any room.",
+      "keywords": [
+        "abstract art",
+        "home decor",
+        "modern style",
+        "silver frame"
+      ],
+      "designer": "Unknown",
+      "licensedName": "Mercury",
+      "url": "https://company.com/CVBZWF671",
+      "seoTitle": "Mercury - Abstract Art with Silver Frame",
+      "seoDescription": "Explore the Mercury artwork, a breathtaking abstract piece with a silver frame, perfect for modern living spaces.",
+      "seoKeywords": [
+        "abstract art",
+        "silver frame",
+        "modern home decor",
+        "Mercury artwork"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "NO",
+      "uvResist": "NO",
+      "weatherResist": "NO",
+      "waterResist": "NO",
+      "foodsafe": "NO",
+      "commercial": "NO",
+      "adaCompliant": "NO",
+      "installRequired": "NO",
+      "assemblyRequired": "NO",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "DRY",
+      "ingressProtection": "",
+      "ageGroup": "ANY",
+      "roomType": [
+        "Living Room"
+      ],
+      "careInstructions": "",
+      "instructions": "Wipe with a soft dry cloth; avoid use of abrasive chemicals.",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "This product is crafted with attention to detail, showcasing sustainable practices in production.",
+      "recycled": "NO",
+      "certification": "None",
+      "sustainability": "Organic materials used for presentation that respect the environment.",
+      "fairtrade": "NO"
+    },
+    "compliance": {
+      "warranty": "2 years",
+      "policy": "This product includes a 2-year warranty covering manufacturing defects.",
+      "policyLink": "https://example.com/warranty-policy",
+      "prop65": "NO"
+    }
+  },
+  "Lang": {
+    "general_information": {
+      "model": "CVBZWF671",
+      "brand": "Mercury",
+      "upc": 883581146981,
+      "asin": "B08Z5NYG12",
+      "product_name": "Abstract Framed Art",
+      "specifier": "Silver Frame, 40\" x 60\"",
+      "fullName": "Abstract Framed Art, Silver Frame, 40\" x 60\"",
+      "description": "A beautiful abstract artwork with a silver frame, measuring 40\" x 60\".",
+      "product_class": "Home Decor:Wall Art",
+      "origin": "CHN"
+    },
+    "spec": {
+      "length": 41.5,
+      "width": 1.5,
+      "height": 61.5,
+      "weight": 17.6,
+      "dominantColor": [
+        "gray"
+      ],
+      "dominantColorFamily": [
+        "gray"
+      ],
+      "dominantColorTerm": [
+        "silver"
+      ],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [
+        "silver"
+      ],
+      "secondaryColorFamily": [
+        "gray"
+      ],
+      "secondaryColorTerm": [
+        "silver"
+      ],
+      "patternType": [
+        "abstract"
+      ],
+      "motiff": "Silver Foil"
+    },
+    "product_class": {
+      "category": [
+        "Decor",
+        "Wall Art"
+      ],
+      "collection": [
+        "Exclusive"
+      ],
+      "style": [
+        "Abstract",
+        "Silver Finish"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "Metal"
+      ],
+      "primaryMaterialDetails": "Aluminum, Silver",
+      "additionalMaterials": [
+        "Glass"
+      ],
+      "additionalMaterialsDetails": "Tempered Glass",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "Hand Finished",
+      "finishDetails": "Silver Foil"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "YES",
+      "class_": "125",
+      "nmfc": "123456",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 44.69,
+      "width": 3.15,
+      "height": 64.76,
+      "girth": 68.06,
+      "weight": 21.0,
+      "cubeFt": 5.27,
+      "cubeM": 0.1492,
+      "HsCode": "6912.00.2500",
+      "CisCode": "3926.90.9985"
+    },
+    "marketing": {
+      "longDescription": "The Mercury is a sleek and modern piece of art, perfect for enhancing the decor of any space. It features a beautiful silver PS outer frame and intricate design crafted with care.",
+      "keywords": [
+        "Mercury",
+        "modern decor",
+        "silver frame",
+        "home enhancement"
+      ],
+      "designer": "Studio Mercury",
+      "licensedName": "Mercury Premium Decor",
+      "url": "https://example.com/product/mercury-CVBZWF671",
+      "seoTitle": "Mercury - Modern Silver Frame with Premium Design",
+      "seoDescription": "Enhance your living space with the Mercury, a modern masterpiece featuring a premium silver frame at an attractive price.",
+      "seoKeywords": [
+        "Mercury",
+        "modern home decor",
+        "premium silver frames",
+        "artistic design"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "NO",
+      "uvResist": "NO",
+      "weatherResist": "NO",
+      "waterResist": "YES",
+      "foodsafe": "NO",
+      "commercial": "NO",
+      "adaCompliant": "NO",
+      "installRequired": "NO",
+      "assemblyRequired": "NO",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "DRY",
+      "ingressProtection": "",
+      "ageGroup": "ADULT",
+      "roomType": [
+        "Living Room",
+        "Dining Room",
+        "Bedroom",
+        "Hallway",
+        "Multi-Use"
+      ],
+      "careInstructions": "Wipe with a dry or damp cloth to remove dust.",
+      "instructions": "Keep item in a dry environment and wipe clean using a soft, dry or slightly damp cloth. Avoid using abrasive cleaners.",
+      "instructionUrl": "http://example.com/care-instructions"
+    },
+    "environmental": {
+      "statement": "The product consists of manufacturing attributes for an item called 'Mercury'.",
+      "recycled": "NO",
+      "certification": "Not certified.",
+      "sustainability": "Efforts to align with sustainability practices are documented.",
+      "fairtrade": "NO"
+    },
+    "compliance": {
+      "warranty": "3 years",
+      "policy": "The warranty ensures the product will be free from defects in materials and workmanship under typical use conditions.",
+      "policyLink": "https://example.com/warranty",
+      "prop65": "NO"
+    }
+  },
+  "Crew": {
+    "general_information": {
+      "model": "CVBZWF671",
+      "brand": "awesomeview",
+      "upc": 883581146981,
+      "asin": "",
+      "product_name": "Mercury",
+      "specifier": "Hand Finished, Silver Foil",
+      "fullName": "Mercury - Hand Finished Silver Foil Design",
+      "description": "40\" X 60\" abstract with silver PS outer frame 1PK/5.27'",
+      "product_class": "2841",
+      "origin": ""
+    },
+    "spec": {
+      "length": 41.5,
+      "width": 1.5,
+      "height": 61.5,
+      "weight": 17.6,
+      "dominantColor": [
+        "364"
+      ],
+      "dominantColorFamily": [
+        "4141"
+      ],
+      "dominantColorTerm": [
+        "Silver"
+      ],
+      "dominantColorSaturation": "",
+      "secondaryColor": [
+        "Silver"
+      ],
+      "secondaryColorFamily": [
+        "4141"
+      ],
+      "secondaryColorTerm": [
+        "Silver"
+      ],
+      "patternType": [
+        "Silver Foil"
+      ],
+      "motiff": "Abstract"
+    },
+    "product_class": {
+      "category": [
+        "2841",
+        "3982"
+      ],
+      "collection": [
+        "4034",
+        "4017"
+      ],
+      "style": [
+        "4044"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "PS (Polystyrene)",
+        "Silver"
+      ],
+      "primaryMaterialDetails": "Primary materials include a silver component and PS (polystyrene), likely used in the frame construction.",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "No additional materials specified beyond those explicitly stated.",
+      "containsTextile": "No",
+      "textileMaterial": [],
+      "textileComposition": "Not applicable",
+      "threadCount": "Not applicable",
+      "finishFamily": "Hand Finished",
+      "finishDetails": "The product is finished with a hand-done technique and features a silver foil design pattern."
+    },
+    "shipping": {
+      "method": "Standard",
+      "oversized": "No",
+      "class_": "2841",
+      "nmfc": "",
+      "packUnit": "1PK",
+      "packageCount": 1,
+      "flatPack": "No",
+      "paletized": "No",
+      "length": 41.5,
+      "width": 1.5,
+      "height": 61.5,
+      "girth": 67.0,
+      "weight": 17.6,
+      "cubeFt": 5.27,
+      "cubeM": 0.149,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The Mercury 40\" X 60\" abstract artwork is a masterpiece featuring a hand-finished silver foil design pattern. It is elegantly framed with a silver PS outer frame, adding a touch of sophistication to any living space. This wall d\u00e9cor weighs 17.6 lbs and its dimensions are 41.5\" in length, 1.5\" in width, and 61.5\" in height. Designed with a contemporary abstract approach, it fits seamlessly into modern styles while showcasing quality materials such as PS (Polystyrene) and silver. The product is versatile in its appeal, crafted with attention to detail for art enthusiasts and home decorators alike.",
+      "keywords": [
+        "40 X 60 abstract artwork",
+        "silver PS outer frame",
+        "hand-finished silver foil",
+        "modern wall d\u00e9cor",
+        "abstract home d\u00e9cor",
+        "silver color artwork",
+        "Mercury wall art"
+      ],
+      "designer": "awesomeview",
+      "licensedName": "Mercury",
+      "url": "",
+      "seoTitle": "Mercury | Hand-Finished Abstract Wall Art with Silver Frame",
+      "seoDescription": "Elevate your home d\u00e9cor with the Mercury artwork. Featuring 40\" X 60\" hand-finished silver foil design, this elegant abstract piece comes in a silver PS outer frame. Perfect for contemporary interiors.",
+      "seoKeywords": [
+        "Mercury wall d\u00e9cor",
+        "silver abstract art",
+        "modern artwork",
+        "home d\u00e9cor accents",
+        "abstract silver artwork",
+        "silver frame wall art",
+        "contemporary wall d\u00e9cor"
+      ]
+    },
+    "usage": {
+      "indoor": "Yes",
+      "outdoor": "No",
+      "uvResist": "No",
+      "weatherResist": "No",
+      "waterResist": "No",
+      "foodsafe": "No",
+      "commercial": "No",
+      "adaCompliant": "No",
+      "installRequired": "No",
+      "assemblyRequired": "No",
+      "toolsIncluded": "No",
+      "intendedEnvironment": "Residential",
+      "ingressProtection": "Not applicable",
+      "ageGroup": "Adult",
+      "roomType": [
+        "Living Room",
+        "Office",
+        "Bedroom"
+      ],
+      "careInstructions": "Dust gently with a soft, dry cloth. Avoid contact with water or cleaning agents to maintain the hand-finished look.",
+      "instructions": "This product is ready to hang. Ensure wall anchors are securely installed for the weight of 17.6 lbs.",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "The Mercury artwork is a hand-finished wall d\u00e9cor piece featuring silver foil design and a silver PS (polystyrene) outer frame. It has dimensions of 41.5 inches in length, 1.5 inches in width, and 61.5 inches in height, weighing 17.6 lbs. The product is crafted for indoor, residential use, focusing on modern abstract styling. It emphasizes elegant design with no additional materials beyond PS and silver.",
+      "recycled": "There is no explicit information regarding the use of recycled materials in the construction of this product.",
+      "certification": "No certifications, environmental or otherwise, are specified for this product.",
+      "sustainability": "The product does not explicitly state any sustainable attributes or manufacturing practices. It is made from materials such as PS (polystyrene) and silver.",
+      "fairtrade": "There is no information indicating that this product is Fair Trade certified or associated with Fair Trade principles."
+    },
+    "compliance": {
+      "warranty": "No warranty information is provided in the available product data.",
+      "policy": "Return and shipping policies are not explicitly mentioned in the provided information.",
+      "policyLink": "No policy link is provided.",
+      "prop65": "There is no mention of compliance with California Proposition 65 or any related warnings in the product information."
+    }
+  }
+}

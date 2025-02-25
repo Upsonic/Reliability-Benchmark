@@ -1,0 +1,557 @@
+{
+  "Upsonic": {
+    "general_information": {
+      "model": "CVDEP530",
+      "brand": "awesomeview",
+      "upc": 0,
+      "asin": "",
+      "product_name": "Airplane Statue",
+      "specifier": "Blackened",
+      "fullName": "Airplane Statue, Blackened",
+      "description": "The awesomeview Collection Airplane Statue is made with aluminum and has a brown/rubbed bronze finish. The vintage, twin engine prop plane has stars on the body and the wings and the windows where the pilot, co-pilot, and navigator sit are well defined. At the top of the airplane there is a coin slot. This would make a thoughtful and treasured gift to the aviation enthusiast or to a young child as a first bank.",
+      "product_class": "",
+      "origin": ""
+    },
+    "spec": {
+      "length": 11.75,
+      "width": 15.75,
+      "height": 6.5,
+      "weight": 5.08,
+      "dominantColor": [],
+      "dominantColorFamily": [],
+      "dominantColorTerm": [],
+      "dominantColorSaturation": "",
+      "secondaryColor": [],
+      "secondaryColorFamily": [],
+      "secondaryColorTerm": [],
+      "patternType": [],
+      "motiff": ""
+    },
+    "product_class": {
+      "category": [],
+      "collection": [],
+      "style": []
+    },
+    "make": {
+      "primaryMaterials": [],
+      "primaryMaterialDetails": "Aluminum",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "brown/rubbed bronze",
+      "finishDetails": "brown/rubbed bronze"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "",
+      "nmfc": "",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 17.0,
+      "width": 13.0,
+      "height": 16.0,
+      "girth": 0.0,
+      "weight": 5.0,
+      "cubeFt": 1.44,
+      "cubeM": 0.0408,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The awesomeview Collection Airplane Statue is made with aluminum and has a brown/rubbed bronze finish. The vintage, twin engine prop plane has stars on the body and the wings and the windows where the pilot, co-pilot, and navigator sit are well defined. At the top of the airplane, there is a coin slot. This would make a thoughtful and treasured gift for the aviation enthusiast or as a young child\u2019s first bank.",
+      "keywords": [],
+      "designer": "",
+      "licensedName": "",
+      "url": "",
+      "seoTitle": "Airplane Statue",
+      "seoDescription": "The awesomeview Collection Airplane Statue is a perfect gift made with aluminum, featuring a brown/rubbed bronze finish and a coin slot, ideal for decor or a child\u2019s first bank.",
+      "seoKeywords": []
+    },
+    "usage": {
+      "indoor": "None",
+      "outdoor": "None",
+      "uvResist": "None",
+      "weatherResist": "None",
+      "waterResist": "None",
+      "foodsafe": "None",
+      "commercial": "None",
+      "adaCompliant": "None",
+      "installRequired": "None",
+      "assemblyRequired": "None",
+      "toolsIncluded": "None",
+      "intendedEnvironment": "None",
+      "ingressProtection": "None",
+      "ageGroup": "None",
+      "roomType": [],
+      "careInstructions": "None",
+      "instructions": "None",
+      "instructionUrl": "None"
+    },
+    "environmental": {
+      "statement": "The Airplane Statue from the awesomeview Collection features a vintage twin-engine prop plane design with stars on the body and wings. Made from aluminum with a brown or rubbed bronze finish, the item has a coin slot at the top and is suitable as both a decorative statue and a thoughtful bank for aviation enthusiasts or children. Dimensions are approximately 6.5 inches in height, 15.75 inches in width, and 11.75 inches in length.",
+      "recycled": "None",
+      "certification": "None",
+      "sustainability": "None",
+      "fairtrade": "None"
+    },
+    "compliance": {
+      "warranty": "",
+      "policy": "",
+      "policyLink": "",
+      "prop65": ""
+    }
+  },
+  "Phi": {
+    "general_information": {
+      "model": "CVDEP530",
+      "brand": "awesomeview",
+      "upc": 883581105575,
+      "asin": "",
+      "product_name": "Airplane Statue",
+      "specifier": "",
+      "fullName": "Airplane Statue",
+      "description": "The awesomeview Collection Airplane Statue in a brown/rubbed bronze finish, featuring a twin engine design.",
+      "product_class": "Home Decor",
+      "origin": ""
+    },
+    "spec": {
+      "length": 11.75,
+      "width": 15.75,
+      "height": 6.5,
+      "weight": 5.08,
+      "dominantColor": [
+        "brown",
+        "black"
+      ],
+      "dominantColorFamily": [
+        "brown",
+        "black"
+      ],
+      "dominantColorTerm": [
+        "brown/rubbed bronze"
+      ],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [
+        "bronze"
+      ],
+      "secondaryColorFamily": [
+        "brown"
+      ],
+      "secondaryColorTerm": [
+        "rubbed bronze"
+      ],
+      "patternType": [
+        "solid"
+      ],
+      "motiff": "Vintage airplane with twin engine design"
+    },
+    "product_class": {
+      "category": [
+        "Decorative Accents"
+      ],
+      "collection": [
+        "awesomeview"
+      ],
+      "style": [
+        "Vintage",
+        "Aviation-themed"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "Aluminum"
+      ],
+      "primaryMaterialDetails": "Aluminum construction",
+      "additionalMaterials": [
+        "None"
+      ],
+      "additionalMaterialsDetails": "NA",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "Bronze",
+      "finishDetails": "Brown/rubbed bronze"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "",
+      "nmfc": "",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 17.0,
+      "width": 13.0,
+      "height": 16.0,
+      "girth": 74.0,
+      "weight": 5.0,
+      "cubeFt": 1.44,
+      "cubeM": 0.04,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The awesomeview Collection Airplane Statue, crafted from aluminum with a brown/rubbed bronze finish, features a vintage twin-engine prop plane design adorned with distinct stars on its body and wings, alongside well-defined windows for the pilot, co-pilot, and navigator. Additionally, the airplane includes a coin slot at the top, making it a treasured gift for aviation enthusiasts or a child\u2019s first bank.",
+      "keywords": [
+        "airplane statue",
+        "aviation gift",
+        "coin bank"
+      ],
+      "designer": "awesomeview",
+      "licensedName": "awesomeview Collection",
+      "url": "manufacturerwebsite.com/airplane-statue",
+      "seoTitle": "Airplane Statue - A Unique Aviation Gift and Coin Bank",
+      "seoDescription": "Explore the awesomeview Collection's Airplane Statue, a aluminum-crafted vintage plane replica with star accents and a practical coin slot.",
+      "seoKeywords": [
+        "aviation tribute",
+        "statue collection",
+        "aviation gift",
+        "plane models"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "NO",
+      "uvResist": "NO",
+      "weatherResist": "NO",
+      "waterResist": "NO",
+      "foodsafe": "NO",
+      "commercial": "NO",
+      "adaCompliant": "NO",
+      "installRequired": "NO",
+      "assemblyRequired": "NO",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "DRY",
+      "ingressProtection": "",
+      "ageGroup": "CHILDREN",
+      "roomType": [
+        "Living Room",
+        "Bedroom"
+      ],
+      "careInstructions": "Regular dusting; avoid exposure to extreme environments.",
+      "instructions": "Maintain surface cleanliness by wiping regularly with a dry cloth.",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "The product has been designed considering specific user needs and exhibits features promoting its intended use effectively.",
+      "recycled": "NO",
+      "certification": "None",
+      "sustainability": "The materials and manufacturing of the product focus on providing longevity and usability.",
+      "fairtrade": "NO"
+    },
+    "compliance": {
+      "warranty": "1 year",
+      "policy": "The product comes with a limited warranty for defects in materials and workmanship.",
+      "policyLink": "https://www.awesomeview.com/warranty",
+      "prop65": "NO"
+    }
+  },
+  "Lang": {
+    "general_information": {
+      "model": "CVDEP530",
+      "brand": "AwesomeView",
+      "upc": 883581105575,
+      "asin": "B07NBX6TN7",
+      "product_name": "Airplane Statue",
+      "specifier": "Blackened, Aluminum",
+      "fullName": "Airplane Statue, Blackened, Aluminum (11.75\"x15.75\"x6.5\")",
+      "description": "The AwesomeView Collection Airplane Statue is crafted from aluminum with a blackened finish; this vintage two-engine propeller plane features a coin slot at the top, making it an ideal decorative and functional piece.",
+      "product_class": "Decor",
+      "origin": "USA"
+    },
+    "spec": {
+      "length": 11.75,
+      "width": 15.75,
+      "height": 6.5,
+      "weight": 5.08,
+      "dominantColor": [
+        "brown",
+        "black"
+      ],
+      "dominantColorFamily": [
+        "brown",
+        "black"
+      ],
+      "dominantColorTerm": [
+        "brown",
+        "rubbed bronze"
+      ],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [
+        "black"
+      ],
+      "secondaryColorFamily": [
+        "black"
+      ],
+      "secondaryColorTerm": [
+        "blackened"
+      ],
+      "patternType": [
+        "solid"
+      ],
+      "motiff": "none"
+    },
+    "product_class": {
+      "category": [
+        "Home Decor",
+        "Statues"
+      ],
+      "collection": [
+        "awesomeview Collection"
+      ],
+      "style": [
+        "Vintage",
+        "Brown",
+        "Rubbed Bronze"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "aluminum"
+      ],
+      "primaryMaterialDetails": "aluminum",
+      "additionalMaterials": [
+        "bronze"
+      ],
+      "additionalMaterialsDetails": "rubbed bronze",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "bronze",
+      "finishDetails": "brown/rubbed bronze"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "",
+      "nmfc": "",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 17.0,
+      "width": 13.0,
+      "height": 16.0,
+      "girth": 59.0,
+      "weight": 5.0,
+      "cubeFt": 1.44,
+      "cubeM": 0.0408,
+      "HsCode": "9503.00.0090",
+      "CisCode": "9503000000"
+    },
+    "marketing": {
+      "longDescription": "The 'Airplane Statue' from the awesomeview Collection is a stunning and functional decorative piece. Crafted from robust aluminum with a brown/rubbed bronze finish, this vintage twin-engine model features detailed stars on the wings and a well-defined cockpit, adding charm to its design. A coin slot at the top further enhances its utility, making it a thoughtful gift for aviation enthusiasts or as a unique bank for children.",
+      "keywords": [
+        "airplane",
+        "statue",
+        "aviation",
+        "decor",
+        "gift"
+      ],
+      "designer": "awesomeview Collection",
+      "licensedName": "Awesomeview Airplane Statue",
+      "url": "https://awesomeview.com/products/airplane-statue-cvdep530",
+      "seoTitle": "Vintage Aluminum Airplane Statue Decoration",
+      "seoDescription": "Discover the Awesomeview Collection's Vintage Aluminum Airplane Statue with intricate details and brown/rubbed bronze finish. Perfect as a gift or decor.",
+      "seoKeywords": [
+        "vintage airplane statue",
+        "awesomeview airplane",
+        "aviation gift",
+        "decorative airplane model"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "NO",
+      "uvResist": "NO",
+      "weatherResist": "NO",
+      "waterResist": "NO",
+      "foodsafe": "NO",
+      "commercial": "NO",
+      "adaCompliant": "NO",
+      "installRequired": "NO",
+      "assemblyRequired": "NO",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "DRY",
+      "ingressProtection": "IP00",
+      "ageGroup": "ANY",
+      "roomType": [
+        "Living Room"
+      ],
+      "careInstructions": "Dust with a soft, dry cloth.",
+      "instructions": "Keep in a dry environment away from direct sunlight and moisture.",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "This product is designed with creative craftsmanship and materials.",
+      "recycled": "NO",
+      "certification": "No specific certifications are associated with this product.",
+      "sustainability": "Crafted with a focus on durability and aesthetic appeal.",
+      "fairtrade": "NO"
+    },
+    "compliance": {
+      "warranty": "1 year",
+      "policy": "This product warranty covers any defects in materials or workmanship under normal use.",
+      "policyLink": "https://www.awesomeview.com/warranty-policy",
+      "prop65": "NO"
+    }
+  },
+  "Crew": {
+    "general_information": {
+      "model": "CVDEP530",
+      "brand": "awesomeview",
+      "upc": 883581105575,
+      "asin": "",
+      "product_name": "Airplane Statue",
+      "specifier": "Blackened, Weight: 5.08 lbs, Dimensions: 11.75\" L x 15.75\" W x 6.5\" H, Material: Aluminum",
+      "fullName": "The awesomeview Collection Airplane Statue",
+      "description": "The awesomeview Collection Airplane Statue is made with aluminum and has a brown/rubbed bronze finish. The vintage, twin engine prop plane has stars on the body and the wings and the windows where the pilot, co-pilot, and navigator sit are well defined. At the top of the airplane there is a coin slot. This would make a thoughtful and treasured gift to the aviation enthusiast or to a young child as a first bank.",
+      "product_class": "2834",
+      "origin": ""
+    },
+    "spec": {
+      "length": 11.75,
+      "width": 15.75,
+      "height": 6.5,
+      "weight": 5.08,
+      "dominantColor": [
+        "brown",
+        "rubbed bronze"
+      ],
+      "dominantColorFamily": [
+        "4141"
+      ],
+      "dominantColorTerm": [
+        "Blackened"
+      ],
+      "dominantColorSaturation": "high",
+      "secondaryColor": [],
+      "secondaryColorFamily": [],
+      "secondaryColorTerm": [],
+      "patternType": [
+        "vintage twin engine prop plane with stars on the body and the wings"
+      ],
+      "motiff": "aviation/airplane theme"
+    },
+    "product_class": {
+      "category": [
+        "2834",
+        "3778",
+        "6024",
+        "6029",
+        "6030"
+      ],
+      "collection": [
+        "3884"
+      ],
+      "style": [
+        "4023"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "Aluminum"
+      ],
+      "primaryMaterialDetails": "The product is made with aluminum, contributing to its sturdy build and rugged design.",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "No",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "Blackened",
+      "finishDetails": "The finish includes a blackened look combined with a brown/rubbed bronze aesthetic, enhancing its vintage and aviation-inspired theme."
+    },
+    "shipping": {
+      "method": "",
+      "oversized": "No",
+      "class_": "2834",
+      "nmfc": "",
+      "packUnit": "Piece",
+      "packageCount": 1,
+      "flatPack": "No",
+      "paletized": "No",
+      "length": 11.75,
+      "width": 15.75,
+      "height": 6.5,
+      "girth": 60.75,
+      "weight": 5.08,
+      "cubeFt": 1.44,
+      "cubeM": 0.0408,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The awesomeview Collection Airplane Statue is made with aluminum and has a brown/rubbed bronze finish. The vintage, twin engine prop plane features stars on its body and wings, with well-defined windows where the pilot, co-pilot, and navigator sit. At the top of the airplane, there is a coin slot, making it a unique and functional piece. This collectible makes a thoughtful and treasured gift for aviation enthusiasts or a young child as a first bank.",
+      "keywords": [
+        "Airplane Statue",
+        "Aviation Decor",
+        "Vintage Plane",
+        "Twin Engine Prop Plane",
+        "Coin Slot Plane",
+        "Aluminum Statue",
+        "Brown Rubbed Bronze Finish",
+        "Aviation Enthusiast Gift",
+        "Awesomeview Collection"
+      ],
+      "designer": "",
+      "licensedName": "awesomeview",
+      "url": "",
+      "seoTitle": "Airplane Statue - The Awesomeview Collection",
+      "seoDescription": "Explore the awesomeview Collection Airplane Statue, designed in aluminum with a stunning brown/rubbed bronze finish. This twin engine prop plane statue features stars, intricate cockpit details, and a functional coin slot. Perfect for aviation lovers or as a unique gift.",
+      "seoKeywords": [
+        "Airplane Statue",
+        "Awesomeview Collection Decor",
+        "Vintage Prop Plane Bank",
+        "Aviation Themed Gift",
+        "Coin Slot Plane Decor"
+      ]
+    },
+    "usage": {
+      "indoor": "Yes",
+      "outdoor": "No",
+      "uvResist": "No",
+      "weatherResist": "No",
+      "waterResist": "No",
+      "foodsafe": "No",
+      "commercial": "No",
+      "adaCompliant": "No",
+      "installRequired": "No",
+      "assemblyRequired": "No",
+      "toolsIncluded": "No",
+      "intendedEnvironment": "Indoor",
+      "ingressProtection": "None",
+      "ageGroup": "Children and Adults",
+      "roomType": [
+        "Living Room",
+        "Office",
+        "Bedroom"
+      ],
+      "careInstructions": "Dust with a soft, dry cloth. Avoid the use of chemicals or abrasive cleaning materials.",
+      "instructions": "Place on a flat, stable surface. Ensure the coin slot is accessible if used as a bank.",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "The 'Airplane Statue' from the awesomeview Collection is crafted with aluminum, characterized by its blackened and brown/rubbed bronze finish. The product is vintage aviation-inspired and adheres to indoor use, ideal for gifting or as decor.",
+      "recycled": "No significant information indicates the use of recycled materials in this product. It is designed with primary material aluminum, but no explicit mention of recycled or repurposed aluminum is provided.",
+      "certification": "The product description and details provided do not specify any environmental or manufacturing certifications, such as FSC, LEED, or Eco-certifications.",
+      "sustainability": "While aluminum is a recyclable material, there is no mention of the product promoting sustainability initiatives or practices, such as sustainable sourcing or low environmental impact manufacturing.",
+      "fairtrade": "No information is provided to confirm that this product adheres to Fairtrade standards or practices equitable trade policies."
+    },
+    "compliance": {
+      "warranty": "No specific warranty information is provided for this product.",
+      "policy": "No explicit return or compliance policy details are available in the provided data.",
+      "policyLink": "No policy link is mentioned or provided in the product information.",
+      "prop65": "No reference to California's Proposition 65 or relevant compliance warnings is included."
+    }
+  }
+}

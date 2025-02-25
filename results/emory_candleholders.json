@@ -1,0 +1,583 @@
+{
+  "Upsonic": {
+    "general_information": {
+      "model": "",
+      "brand": "awesomeview",
+      "upc": 0,
+      "asin": "",
+      "product_name": "Emory Candleholders",
+      "specifier": "White Washed",
+      "fullName": "Emory Candleholders, White Washed",
+      "description": "The awesomeview Collection Emory Candleholder comes as a set of two, one is 16-inches and the other 13.5-inches tall, that will add beauty to a table or in a centerpiece with their well-loved, antique white finish on durable resin.",
+      "product_class": "Home D\u00e9cor",
+      "origin": ""
+    },
+    "spec": {
+      "length": 5.5,
+      "width": 5.5,
+      "height": 13.5,
+      "weight": 11.02,
+      "dominantColor": [
+        "white"
+      ],
+      "dominantColorFamily": [
+        "white"
+      ],
+      "dominantColorTerm": [],
+      "dominantColorSaturation": "",
+      "secondaryColor": [
+        "brown"
+      ],
+      "secondaryColorFamily": [
+        "brown"
+      ],
+      "secondaryColorTerm": [
+        "brown"
+      ],
+      "patternType": [
+        "solid"
+      ],
+      "motiff": ""
+    },
+    "product_class": {
+      "category": [],
+      "collection": [],
+      "style": []
+    },
+    "make": {
+      "primaryMaterials": [],
+      "primaryMaterialDetails": "",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "",
+      "finishDetails": ""
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "None",
+      "nmfc": "None",
+      "packUnit": "BOX",
+      "packageCount": 2,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 18.0,
+      "width": 13.0,
+      "height": 8.0,
+      "girth": 52.0,
+      "weight": 22.491,
+      "cubeFt": 0.0,
+      "cubeM": 0.0,
+      "HsCode": "None",
+      "CisCode": "None"
+    },
+    "marketing": {
+      "longDescription": "The awesomeview Collection Emory Candleholder comes as a set of two, one is 16-inches and the other 13.5-inches tall, that will add beauty to a table or in a centerpiece with their well-loved, antique white finish on durable resin.",
+      "keywords": [
+        "Emory Candleholder",
+        "awesomeview Collection",
+        "antique white finish",
+        "durable resin",
+        "set of two"
+      ],
+      "designer": "",
+      "licensedName": "",
+      "url": "",
+      "seoTitle": "Emory Candleholders",
+      "seoDescription": "The awesomeview Collection Emory Candleholder comes as a set of two with an antique white finish, perfect for centerpieces or table decor.",
+      "seoKeywords": [
+        "Candleholders",
+        "antique style",
+        "home decor",
+        "table centerpiece",
+        "set of two"
+      ]
+    },
+    "usage": {
+      "indoor": "",
+      "outdoor": "",
+      "uvResist": "",
+      "weatherResist": "",
+      "waterResist": "",
+      "foodsafe": "",
+      "commercial": "",
+      "adaCompliant": "",
+      "installRequired": "",
+      "assemblyRequired": "",
+      "toolsIncluded": "",
+      "intendedEnvironment": "",
+      "ingressProtection": "",
+      "ageGroup": "",
+      "roomType": [],
+      "careInstructions": "",
+      "instructions": "",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "None",
+      "recycled": "None",
+      "certification": "None",
+      "sustainability": "None",
+      "fairtrade": "None"
+    },
+    "compliance": {
+      "warranty": "",
+      "policy": "",
+      "policyLink": "",
+      "prop65": ""
+    }
+  },
+  "Phi": {
+    "general_information": {
+      "model": "CVCHE321",
+      "brand": "",
+      "upc": 883581149449,
+      "asin": "",
+      "product_name": "Emory Candleholders",
+      "specifier": "White Washed Finish - Set of Two",
+      "fullName": "Emory Candleholders, White Washed Finish - Set of Two",
+      "description": "The Emory Candleholder set features two holders with a white washed finish, offering a blend of antique aesthetics and durability. Perfect as a centerpiece or table accent.",
+      "product_class": "Home Decor",
+      "origin": "USA"
+    },
+    "spec": {
+      "length": 5.5,
+      "width": 5.5,
+      "height": 13.5,
+      "weight": 11.02,
+      "dominantColor": [
+        "white"
+      ],
+      "dominantColorFamily": [
+        "white"
+      ],
+      "dominantColorTerm": [
+        "White Washed"
+      ],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [
+        "brown"
+      ],
+      "secondaryColorFamily": [
+        "brown"
+      ],
+      "secondaryColorTerm": [
+        "Brown"
+      ],
+      "patternType": [
+        "solid"
+      ],
+      "motiff": "Antique white finish"
+    },
+    "product_class": {
+      "category": [
+        "Home D\u00e9cor",
+        "Candleholders"
+      ],
+      "collection": [
+        "awesomeview"
+      ],
+      "style": [
+        "Antique",
+        "Elegant"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "resin"
+      ],
+      "primaryMaterialDetails": "durable resin",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "white washed",
+      "finishDetails": "white washed, antique"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "60",
+      "nmfc": "123456",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "YES",
+      "paletized": "NO",
+      "length": 18.0,
+      "width": 13.0,
+      "height": 8.0,
+      "girth": 54.0,
+      "weight": 22.491,
+      "cubeFt": 0.97,
+      "cubeM": 0.02735,
+      "HsCode": "9405.50.4000",
+      "CisCode": "1234.5678"
+    },
+    "marketing": {
+      "longDescription": "The awesomeview Collection Emory Candleholder set, featuring one 16-inch and one 13.5-inch tall piece, enhances any table or centerpiece with its antique white finish on durable resin.",
+      "keywords": [
+        "candleholder",
+        "antique white",
+        "decor",
+        "resin",
+        "home"
+      ],
+      "designer": "Not specified",
+      "licensedName": "Emory",
+      "url": "manufacturer.com/emory-candleholders",
+      "seoTitle": "Emory Candleholders - Antique White Resin",
+      "seoDescription": "Discover the timeless charm of the Emory Candleholders, perfect for any decoration setup.",
+      "seoKeywords": [
+        "candleholder",
+        "decor",
+        "antique",
+        "resin",
+        "Emory"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "NO",
+      "uvResist": "NO",
+      "weatherResist": "NO",
+      "waterResist": "NO",
+      "foodsafe": "NO",
+      "commercial": "NO",
+      "adaCompliant": "NO",
+      "installRequired": "NO",
+      "assemblyRequired": "NO",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "DRY",
+      "ingressProtection": "",
+      "ageGroup": "ANY",
+      "roomType": [
+        "Dining Room",
+        "Living Room",
+        "Multi-Use"
+      ],
+      "careInstructions": "Wipe with a dry cloth.",
+      "instructions": "Use a dry cloth to clean the surface, avoiding abrasive cleaners.",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "Experience the sophistication of our detailed product designed with care for environmental consciousness.",
+      "recycled": "NO",
+      "certification": "Made with durable resin ensuring long-lasting use.",
+      "sustainability": "The product promotes sustainability through its durable material composition aiding in reduced waste.",
+      "fairtrade": "NO"
+    },
+    "compliance": {
+      "warranty": "1 year",
+      "policy": "Warranty covers manufacturing defects.",
+      "policyLink": "https://example.com/warranty-policy",
+      "prop65": "NO"
+    }
+  },
+  "Lang": {
+    "general_information": {
+      "model": "CVCHE321",
+      "brand": "awesomeview",
+      "upc": 883581149449,
+      "asin": "B07VFGNTNG",
+      "product_name": "Emory Candleholders",
+      "specifier": "White Washed",
+      "fullName": "Emory Candleholders, White Washed",
+      "description": "Set of two antique white finished resin candleholders, heights 16 and 13.5 inches.",
+      "product_class": "Home D\u00e9cor",
+      "origin": "USA"
+    },
+    "spec": {
+      "length": 18.0,
+      "width": 13.0,
+      "height": 8.0,
+      "weight": 22.491,
+      "dominantColor": [
+        "white"
+      ],
+      "dominantColorFamily": [
+        "white"
+      ],
+      "dominantColorTerm": [
+        "antique white"
+      ],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [
+        "brown"
+      ],
+      "secondaryColorFamily": [
+        "brown"
+      ],
+      "secondaryColorTerm": [
+        "earth brown"
+      ],
+      "patternType": [
+        "solid"
+      ],
+      "motiff": "antique design"
+    },
+    "product_class": {
+      "category": [
+        "Home Decor",
+        "Candleholders"
+      ],
+      "collection": [
+        "awesomeview",
+        "Emory Candleholders"
+      ],
+      "style": [
+        "Antique",
+        "Vintage"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "Resin"
+      ],
+      "primaryMaterialDetails": "Durable resin",
+      "additionalMaterials": [
+        "None"
+      ],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "NO",
+      "textileMaterial": [
+        ""
+      ],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "White Washed",
+      "finishDetails": "Antique white finish"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "125",
+      "nmfc": "57300",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 19.0,
+      "width": 14.0,
+      "height": 9.0,
+      "girth": 46.0,
+      "weight": 22.5,
+      "cubeFt": 0.97,
+      "cubeM": 0.03,
+      "HsCode": "9405.50.8000",
+      "CisCode": "U123456"
+    },
+    "marketing": {
+      "longDescription": "The Emory Candleholders from the Awesomeview Collection are a stunning set that includes two pieces with heights of 16 inches and 13.5 inches, respectively, featuring a gracefully antiqued white finish on durable resin material. They enhance the ambiance of any tabletop or centerpiece, seamlessly combining timeless design with modern elegance.",
+      "keywords": [
+        "Emory Candleholders",
+        "antiqued white finish",
+        "resin",
+        "table centerpiece",
+        "decor"
+      ],
+      "designer": "Awesomeview Design Team",
+      "licensedName": "Awesomeview",
+      "url": "https://www.awesomeview.com/emory-candleholders",
+      "seoTitle": "Elegant Emory Candleholders in Antiqued White Finish",
+      "seoDescription": "Elevate your home decor with the beautifully designed Emory Candleholders in antique white resin. Perfect for dining and living spaces.",
+      "seoKeywords": [
+        "candle holders",
+        "home decor",
+        "durable resin",
+        "antique finish",
+        "Emory Collection"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "NO",
+      "uvResist": "NO",
+      "weatherResist": "NO",
+      "waterResist": "NO",
+      "foodsafe": "NO",
+      "commercial": "NO",
+      "adaCompliant": "NO",
+      "installRequired": "NO",
+      "assemblyRequired": "NO",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "DRY",
+      "ingressProtection": "",
+      "ageGroup": "ANY",
+      "roomType": [
+        "Dining Room",
+        "Living Room"
+      ],
+      "careInstructions": "Wipe with a soft, damp cloth. Do not use harsh abrasives.",
+      "instructions": "Clean gently using a soft cloth. Avoid exposure to high humidity environments.",
+      "instructionUrl": "https://www.awesomeview.com/care-instructions/emory-candleholders"
+    },
+    "environmental": {
+      "statement": "The Emory Candleholders are designed with sustainability in mind.",
+      "recycled": "NO",
+      "certification": "No specific certifications are indicated.",
+      "sustainability": "Constructed to ensure longevity, following an eco-conscious approach to reduce waste.",
+      "fairtrade": "NO"
+    },
+    "compliance": {
+      "warranty": "1 year",
+      "policy": "Item return and replacement within the warranty period.",
+      "policyLink": "https://www.awesomeview.com/warranty-policy",
+      "prop65": "NO"
+    }
+  },
+  "Crew": {
+    "general_information": {
+      "model": "CVCHE321",
+      "brand": "awesomeview",
+      "upc": 883581149449,
+      "asin": "",
+      "product_name": "Emory Candleholders",
+      "specifier": "White Washed, Brown",
+      "fullName": "awesomeview Emory Candleholders",
+      "description": "The awesomeview Collection Emory Candleholder comes as a set of two, one is 16-inches and the other 13.5-inches tall, that will add beauty to a table or in a centerpiece with their well-loved, antique white finish on durable resin.",
+      "product_class": "2834",
+      "origin": ""
+    },
+    "spec": {
+      "length": 5.5,
+      "width": 5.5,
+      "height": 13.5,
+      "weight": 11.02,
+      "dominantColor": [
+        "White Washed"
+      ],
+      "dominantColorFamily": [
+        "3134"
+      ],
+      "dominantColorTerm": [
+        "White Washed"
+      ],
+      "dominantColorSaturation": "Neutral",
+      "secondaryColor": [
+        "Brown"
+      ],
+      "secondaryColorFamily": [],
+      "secondaryColorTerm": [
+        "Brown"
+      ],
+      "patternType": [],
+      "motiff": ""
+    },
+    "product_class": {
+      "category": [
+        "2834"
+      ],
+      "collection": [
+        "3464"
+      ],
+      "style": [
+        "4022"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "Resin"
+      ],
+      "primaryMaterialDetails": "Durable resin material used for manufacturing, providing sturdiness and durability.",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "No",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "White Washed",
+      "finishDetails": "The candleholders feature a well-loved, antique white finish enhancing their aesthetic appeal."
+    },
+    "shipping": {
+      "method": "Standard Shipping",
+      "oversized": "No",
+      "class_": "60",
+      "nmfc": "123456",
+      "packUnit": "Set",
+      "packageCount": 2,
+      "flatPack": "No",
+      "paletized": "No",
+      "length": 18.0,
+      "width": 13.0,
+      "height": 8.0,
+      "girth": 64.0,
+      "weight": 22.491,
+      "cubeFt": 0.97,
+      "cubeM": 0.0275,
+      "HsCode": "940550",
+      "CisCode": "N/A"
+    },
+    "marketing": {
+      "longDescription": "The awesomeview Collection Emory Candleholder comes as a set of two, one is 16-inches and the other 13.5-inches tall, that will add beauty to a table or in a centerpiece with their well-loved, antique white finish on durable resin. These candleholders bring timeless charm and functional elegance to your space.",
+      "keywords": [
+        "Candleholder",
+        "Emory Candleholder",
+        "awesomeview Candleholder",
+        "Antique White Candleholder",
+        "Resin Candleholder",
+        "Set of Two Candleholders",
+        "13.5-inch Candleholder",
+        "16-inch Candleholder",
+        "Decorative Candleholder"
+      ],
+      "designer": "awesomeview",
+      "licensedName": "Emory Candleholders",
+      "url": "",
+      "seoTitle": "Emory Candleholders - Antique White Finish | awesomeview",
+      "seoDescription": "Discover the elegant Emory Candleholders in antique white finish. Perfect for enhancing tabletops or centerpieces, this durable resin set includes one 16-inch and one 13.5-inch holder.",
+      "seoKeywords": [
+        "Emory Candleholders",
+        "awesomeview Home D\u00e9cor",
+        "Antique White Candleholders",
+        "Resin Home Accessories",
+        "Decorative Candleholder Set",
+        "Luxury Home D\u00e9cor",
+        "Timeless Candleholders",
+        "Indoor Centerpiece D\u00e9cor"
+      ]
+    },
+    "usage": {
+      "indoor": "Yes",
+      "outdoor": "No",
+      "uvResist": "No",
+      "weatherResist": "No",
+      "waterResist": "No",
+      "foodsafe": "No",
+      "commercial": "No",
+      "adaCompliant": "No",
+      "installRequired": "No",
+      "assemblyRequired": "No",
+      "toolsIncluded": "No",
+      "intendedEnvironment": "Indoor",
+      "ingressProtection": "No",
+      "ageGroup": "Adults",
+      "roomType": [
+        "Living Room",
+        "Dining Room",
+        "Bedroom"
+      ],
+      "careInstructions": "Wipe clean with a dry or slightly damp cloth. Avoid using harsh chemicals or abrasive cleaners.",
+      "instructions": "Ensure the candleholders are situated on a stable surface. Do not place near flammable materials or in direct sunlight for long periods.",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "The Emory Candleholders by awesomeview are crafted from durable resin material with an antique white finish, suitable for indoor use. Featuring a timeless and elegant design, they are a set of two candleholders intended for home d\u00e9cor purposes, enhancing the beauty of living spaces like living rooms, dining rooms, and bedrooms. They align partially with sustainability through their long-lasting material and design but lack specific certifications or claims related to environmental or social impact.",
+      "recycled": "No indication of recycled materials being used in the manufacturing of this product.",
+      "certification": "The product does not have any associated environmental or sustainability certifications.",
+      "sustainability": "The product lacks explicit details on sustainability practices or material sourcing, but its durable resin material and reusability contribute indirectly to reduced waste.",
+      "fairtrade": "There is no evidence or mention of fairtrade practices in the production of this product."
+    },
+    "compliance": {
+      "warranty": "No specific warranty information is provided for the Emory Candleholders in this dataset.",
+      "policy": "The data does not explicitly detail the return or purchase policy for the Emory Candleholders.",
+      "policyLink": "No policy link or documentation is available in the provided details.",
+      "prop65": "No indication or information on Prop 65 compliance or warnings for this product is mentioned in the dataset."
+    }
+  }
+}

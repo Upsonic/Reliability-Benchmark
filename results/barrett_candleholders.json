@@ -1,0 +1,549 @@
+{
+  "Upsonic": {
+    "general_information": {
+      "model": "CVCZHE6542",
+      "brand": "awesomeview",
+      "upc": 0,
+      "asin": "",
+      "product_name": "Barrett Candleholders",
+      "specifier": "Set of 2",
+      "fullName": "Barrett Candleholders, Set of 2",
+      "description": "The awesomeview Collection Barrett Candle Holders come in a set of two and are made from glazed ceramics. The glossy, light blue and ivory finish will attract the eye while the graceful, well placed curves will guide your eyes from top to bottom. One candle holder is three-inches taller than the other, giving you a variety of decorating options -- beautifully incorporated in a centerpiece or on their own.",
+      "product_class": "",
+      "origin": ""
+    },
+    "spec": {
+      "length": 7.0,
+      "width": 7.0,
+      "height": 19.5,
+      "weight": 7.28,
+      "dominantColor": [],
+      "dominantColorFamily": [],
+      "dominantColorTerm": [],
+      "dominantColorSaturation": "",
+      "secondaryColor": [],
+      "secondaryColorFamily": [],
+      "secondaryColorTerm": [],
+      "patternType": [],
+      "motiff": ""
+    },
+    "product_class": {
+      "category": [],
+      "collection": [],
+      "style": []
+    },
+    "make": {
+      "primaryMaterials": [],
+      "primaryMaterialDetails": "",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "",
+      "finishDetails": ""
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "",
+      "nmfc": "",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 17.25,
+      "width": 10.0,
+      "height": 22.5,
+      "girth": 0.0,
+      "weight": 16.016,
+      "cubeFt": 2.5,
+      "cubeM": 0.070792755256,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The awesomeview Collection Barrett Candle Holders come in a set of two and are made from glazed ceramics. The glossy, light blue and ivory finish will attract the eye while the graceful, well-placed curves will guide your eyes from top to bottom. One candle holder is three inches taller than the other, giving you a variety of decorating options\u2014beautifully incorporated in a centerpiece or on their own.",
+      "keywords": [],
+      "designer": "",
+      "licensedName": "",
+      "url": "",
+      "seoTitle": "Barrett Candleholders - Elegant Glazed Ceramics in Light Blue & Ivory",
+      "seoDescription": "Discover Barrett Candleholders from the awesomeview Collection, set of 2 crafted from glazed ceramics with a stunning light blue and ivory finish.",
+      "seoKeywords": []
+    },
+    "usage": {
+      "indoor": "None",
+      "outdoor": "None",
+      "uvResist": "None",
+      "weatherResist": "None",
+      "waterResist": "None",
+      "foodsafe": "None",
+      "commercial": "None",
+      "adaCompliant": "None",
+      "installRequired": "None",
+      "assemblyRequired": "None",
+      "toolsIncluded": "None",
+      "intendedEnvironment": "None",
+      "ingressProtection": "None",
+      "ageGroup": "None",
+      "roomType": [],
+      "careInstructions": "None",
+      "instructions": "None",
+      "instructionUrl": "None"
+    },
+    "environmental": {
+      "statement": "",
+      "recycled": "",
+      "certification": "",
+      "sustainability": "",
+      "fairtrade": ""
+    },
+    "compliance": {
+      "warranty": "",
+      "policy": "",
+      "policyLink": "",
+      "prop65": ""
+    }
+  },
+  "Phi": {
+    "general_information": {
+      "model": "CVCZHE6542",
+      "brand": "Awesomeview",
+      "upc": 883581146011,
+      "asin": "",
+      "product_name": "Barrett Candleholders",
+      "specifier": "Set of 2",
+      "fullName": "Barrett Candleholders, Set of 2",
+      "description": "The awesomeview Collection Barrett Candle Holders come in a set of two and are made from glazed ceramics.",
+      "product_class": "Decorative Accessories",
+      "origin": "USA"
+    },
+    "spec": {
+      "length": 7.0,
+      "width": 7.0,
+      "height": 19.5,
+      "weight": 7.28,
+      "dominantColor": [],
+      "dominantColorFamily": [
+        "Light Blue",
+        "Ivory"
+      ],
+      "dominantColorTerm": [
+        "Light Blue",
+        "Ivory"
+      ],
+      "dominantColorSaturation": "Normal",
+      "secondaryColor": [],
+      "secondaryColorFamily": [],
+      "secondaryColorTerm": [],
+      "patternType": [
+        "Solid"
+      ],
+      "motiff": "Glazed Ceramics"
+    },
+    "product_class": {
+      "category": [
+        "Decor",
+        "Candleholders"
+      ],
+      "collection": [
+        "Awesomeview"
+      ],
+      "style": [
+        "Graceful",
+        "Contemporary"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "ceramic"
+      ],
+      "primaryMaterialDetails": "Glazed ceramics",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "Glossy",
+      "finishDetails": "light blue and ivory finish"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "",
+      "nmfc": "",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 17.25,
+      "width": 10.0,
+      "height": 22.5,
+      "girth": 0.0,
+      "weight": 16.016,
+      "cubeFt": 2.5,
+      "cubeM": 0.07,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The awesomeview Collection Barrett Candle Holders come in a set of two and are crafted from glazed ceramics. Showcasing a glossy light blue and ivory finish, these candle holders feature elegant curves that add sophistication to any setting. With one holder standing three inches taller than the other, they provide versatile decorating options\u2014whether as part of a centerpiece or displayed separately.",
+      "keywords": [
+        "candleholders",
+        "ceramic",
+        "blue",
+        "ivory",
+        "home decor"
+      ],
+      "designer": "Not specified",
+      "licensedName": "Barrett",
+      "url": "Not specified",
+      "seoTitle": "Elegant Ceramic Barrett Candleholders - Light Blue & Ivory",
+      "seoDescription": "Discover the Barrett Candle Holders, a set of two exquisite, glazed ceramic pieces, perfect for adding an elegant touch to any decor.",
+      "seoKeywords": [
+        "Barrett Candleholders",
+        "ceramic decor",
+        "home accessories"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "NO",
+      "uvResist": "NO",
+      "weatherResist": "NO",
+      "waterResist": "NO",
+      "foodsafe": "NO",
+      "commercial": "NO",
+      "adaCompliant": "NO",
+      "installRequired": "NO",
+      "assemblyRequired": "NO",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "DRY",
+      "ingressProtection": "",
+      "ageGroup": "ADULT",
+      "roomType": [
+        "Dining Room",
+        "Living Room"
+      ],
+      "careInstructions": "Clean with a dry or lightly damp cloth.",
+      "instructions": "To maintain the finish's elegance, gently wipe using a dry or slightly moist soft cloth. Avoid abrasive cleaners.",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "The Barrett Candleholders are crafted using eco-friendly practices to ensure minimal environmental impact.",
+      "recycled": "NO",
+      "certification": "ISO 14001 environmental management certified",
+      "sustainability": "These products are designed for longevity and repurposability.",
+      "fairtrade": "NO"
+    },
+    "compliance": {
+      "warranty": "1 year",
+      "policy": "The product is covered under a standard one-year warranty from the date of purchase.",
+      "policyLink": "http://example.com/warranty-policy",
+      "prop65": "NO"
+    }
+  },
+  "Lang": {
+    "general_information": {
+      "model": "CVCZHE6542",
+      "brand": "awesomeview",
+      "upc": 883581146011,
+      "asin": "B08HZ12K3L",
+      "product_name": "Barrett Candleholders",
+      "specifier": "Set of 2",
+      "fullName": "Barrett Candleholders, Set of 2",
+      "description": "The awesomeview Collection Barrett Candle Holders, a set of two candle holders of varying heights made from glazed ceramics, feature a glossy, light blue and ivory finish with elegant curves suitable for diverse decorating scenarios.",
+      "product_class": "Ceramic Candle Holders",
+      "origin": "USA"
+    },
+    "spec": {
+      "length": 7.0,
+      "width": 7.0,
+      "height": 19.5,
+      "weight": 7.28,
+      "dominantColor": [
+        "light blue",
+        "ivory"
+      ],
+      "dominantColorFamily": [
+        "blue",
+        "white"
+      ],
+      "dominantColorTerm": [
+        "glossy light blue",
+        "ivory"
+      ],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [
+        "-"
+      ],
+      "secondaryColorFamily": [
+        "-"
+      ],
+      "secondaryColorTerm": [
+        "-"
+      ],
+      "patternType": [
+        "solid"
+      ],
+      "motiff": "glazed ceramic"
+    },
+    "product_class": {
+      "category": [
+        "Home Decor",
+        "Candleholders"
+      ],
+      "collection": [
+        "Awesomeview Collection"
+      ],
+      "style": [
+        "Elegant",
+        "Modern"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "ceramic"
+      ],
+      "primaryMaterialDetails": "glazed ceramic",
+      "additionalMaterials": [
+        "none"
+      ],
+      "additionalMaterialsDetails": "N/A",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "glossy",
+      "finishDetails": "glossy, light blue and ivory finish"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "92.5",
+      "nmfc": "691.12",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 17.25,
+      "width": 10.0,
+      "height": 22.5,
+      "girth": 62.5,
+      "weight": 16.016,
+      "cubeFt": 2.24479,
+      "cubeM": 0.06356,
+      "HsCode": "6912.00.2500",
+      "CisCode": "821599"
+    },
+    "marketing": {
+      "longDescription": "The Barrett Candleholders from the awesomeview Collection are an exquisite addition to any home decor style. Made from high-quality glazed ceramics, these candle holders showcase a glossy, light blue and ivory finish that captures attention. The thoughtful design incorporates graceful curves and a height difference between the two holders, providing versatile decorating options\u2014either as a centerpiece or a decorative statement on their own.",
+      "keywords": [
+        "candleholder",
+        "ceramics",
+        "home",
+        "decor",
+        "awesomeview"
+      ],
+      "designer": "awesomeview",
+      "licensedName": "",
+      "url": "company.com/B2061ZZ",
+      "seoTitle": "The Perfect Barrett Candleholders for Your Home",
+      "seoDescription": "Upgrade your decor with the Barrett Candleholders from the awesomeview Collection. Elegant, versatile, and eye-catching.",
+      "seoKeywords": [
+        "stylish",
+        "elegant",
+        "versatile",
+        "decor",
+        "gift"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "NO",
+      "uvResist": "NO",
+      "weatherResist": "NO",
+      "waterResist": "NO",
+      "foodsafe": "NO",
+      "commercial": "NO",
+      "adaCompliant": "NO",
+      "installRequired": "NO",
+      "assemblyRequired": "NO",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "DRY",
+      "ingressProtection": "",
+      "ageGroup": "ADULT",
+      "roomType": [
+        "Living Room",
+        "Dining Room",
+        "Hallway"
+      ],
+      "careInstructions": "Wipe with a dry cloth.",
+      "instructions": "Clean by gently dusting or wiping with a soft, dry cloth.",
+      "instructionUrl": "https://example.com/care-instructions/barrett-candleholders"
+    },
+    "environmental": {
+      "statement": "The Barrett Candleholders are crafted from glazed ceramics, an eco-conscious choice due to the longevity of the material.",
+      "recycled": "NO",
+      "certification": "No specific certifications noted.",
+      "sustainability": "Ceramic construction suggests durability and reusability, contributing to sustainability.",
+      "fairtrade": "NO"
+    },
+    "compliance": {
+      "warranty": "2 years",
+      "policy": "The product warranty covers manufacturing defects for a period of 2 years from the purchase date.",
+      "policyLink": "https://www.awesomeview.com/warranty-policy",
+      "prop65": "NO"
+    }
+  },
+  "Crew": {
+    "general_information": {
+      "model": "CVCZHE6542",
+      "brand": "awesomeview",
+      "upc": 883581146011,
+      "asin": "",
+      "product_name": "Barrett Candleholders",
+      "specifier": "Set of 2",
+      "fullName": "Barrett Candleholders, Set of 2",
+      "description": "The awesomeview Collection Barrett Candle Holders come in a set of two and are made from glazed ceramics. The glossy, light blue and ivory finish will attract the eye while the graceful, well placed curves will guide your eyes from top to bottom. One candle holder is three-inches taller than the other, giving you a variety of decorating options -- beautifully incorporated in a centerpiece or on their own.",
+      "product_class": "Lighting & Decorative",
+      "origin": "Made from glazed ceramics"
+    },
+    "spec": {
+      "length": 7.0,
+      "width": 7.0,
+      "height": 19.5,
+      "weight": 7.28,
+      "dominantColor": [
+        "Light Blue",
+        "Ivory"
+      ],
+      "dominantColorFamily": [
+        "Blue",
+        "Neutral"
+      ],
+      "dominantColorTerm": [
+        "2840"
+      ],
+      "dominantColorSaturation": "Glossy",
+      "secondaryColor": [],
+      "secondaryColorFamily": [],
+      "secondaryColorTerm": [],
+      "patternType": [
+        "Ceramics"
+      ],
+      "motiff": "Glazed Ceramics"
+    },
+    "product_class": {
+      "category": [
+        "Lighting & Decorative"
+      ],
+      "collection": [
+        "awesomeview Collection"
+      ],
+      "style": [
+        "4022"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "Glazed Ceramics"
+      ],
+      "primaryMaterialDetails": "Made from glazed ceramics with a glossy, light blue and ivory finish.",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "No additional materials specified.",
+      "containsTextile": "No",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "Glossy",
+      "finishDetails": "Glazed finish in light blue and ivory tones."
+    },
+    "shipping": {
+      "method": "Standard Shipping",
+      "oversized": "No",
+      "class_": "Lighting & Decorative",
+      "nmfc": "Not Provided",
+      "packUnit": "Set of 2",
+      "packageCount": 1,
+      "flatPack": "No",
+      "paletized": "No",
+      "length": 22.5,
+      "width": 10.0,
+      "height": 17.25,
+      "girth": 54.5,
+      "weight": 16.016,
+      "cubeFt": 2.5,
+      "cubeM": 0.07,
+      "HsCode": "Not Provided",
+      "CisCode": "Not Provided"
+    },
+    "marketing": {
+      "longDescription": "The awesomeview Collection Barrett Candle Holders come in a set of two and are made from glazed ceramics. The glossy, light blue and ivory finish will attract the eye while the graceful, well placed curves will guide your eyes from top to bottom. One candle holder is three-inches taller than the other, giving you a variety of decorating options -- beautifully incorporated in a centerpiece or on their own.",
+      "keywords": [
+        "Barrett Candleholders",
+        "awesomeview Collection",
+        "Glazed Ceramics",
+        "Decorative Candleholders",
+        "Light Blue Candleholders",
+        "Ivory Candleholders",
+        "Centerpiece Candleholders",
+        "Set of 2 Candleholders"
+      ],
+      "designer": "",
+      "licensedName": "awesomeview",
+      "url": "",
+      "seoTitle": "Barrett Candleholders",
+      "seoDescription": "The awesomeview Collection Barrett Candle Holders come in a set of two and are made from glazed ceramics. The glossy, light blue and ivory finish will attract the eye while the graceful, well placed curves will guide your eyes from top to bottom. One candle holder is three-inches taller than the other, giving you a variety of decorating options -- beautifully incorporated in a centerpiece or on their own.",
+      "seoKeywords": [
+        "Barrett Candleholders",
+        "awesomeview Collection",
+        "Glazed Ceramics",
+        "Light Blue and Ivory Finish",
+        "Decorative Candle Set",
+        "Centerpiece Accessories",
+        "Interior Decor Candleholders"
+      ]
+    },
+    "usage": {
+      "indoor": "Yes",
+      "outdoor": "No",
+      "uvResist": "No",
+      "weatherResist": "No",
+      "waterResist": "No",
+      "foodsafe": "No",
+      "commercial": "No",
+      "adaCompliant": "No",
+      "installRequired": "No",
+      "assemblyRequired": "No",
+      "toolsIncluded": "No",
+      "intendedEnvironment": "Indoor",
+      "ingressProtection": "Not Applicable",
+      "ageGroup": "Adults",
+      "roomType": [
+        "Living Room",
+        "Dining Room",
+        "Entryway"
+      ],
+      "careInstructions": "Wipe clean with a soft, damp cloth. Avoid using abrasive cleaners or submerging in water.",
+      "instructions": "No additional instructions required.",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "The Barrett Candleholders from the awesomeview Collection are a sustainable option as they are made from glazed ceramics, a durable material that encourages long-term use and minimizes waste due to its longevity. Additionally, the product's intended use is for indoor environments, reducing the likelihood of exposure to external elements that might degrade its material integrity over time.",
+      "recycled": "No information available regarding the use of recycled materials in the construction of this product.",
+      "certification": "No certifications, such as environmental or fair trade labels, are specified for this product.",
+      "sustainability": "Made from glazed ceramics, a durable material that promotes prolonged use. Packaging provides dimensions that suggest minimal material use. No details provided about sourcing or production practices that emphasize sustainability.",
+      "fairtrade": "No fair trade practices or partnerships are mentioned."
+    },
+    "compliance": {
+      "warranty": "No warranty information has been specified for this product.",
+      "policy": "No specific return or exchange policy information has been provided for this product.",
+      "policyLink": "No policy link is available for this product.",
+      "prop65": "This product has no information indicating it contains substances requiring Proposition 65 warning compliance."
+    }
+  }
+}

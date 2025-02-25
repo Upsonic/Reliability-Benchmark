@@ -1,0 +1,531 @@
+{
+  "Upsonic": {
+    "general_information": {
+      "model": "CVPZDN432",
+      "brand": "",
+      "upc": 0,
+      "asin": "",
+      "product_name": "Medium Brynn Modern Industrial Pendant",
+      "specifier": "",
+      "fullName": "",
+      "description": "",
+      "product_class": "",
+      "origin": ""
+    },
+    "spec": {
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0,
+      "weight": 0.0,
+      "dominantColor": [],
+      "dominantColorFamily": [],
+      "dominantColorTerm": [],
+      "dominantColorSaturation": "",
+      "secondaryColor": [],
+      "secondaryColorFamily": [],
+      "secondaryColorTerm": [],
+      "patternType": [],
+      "motiff": "Modern Industrial"
+    },
+    "product_class": {
+      "category": [],
+      "collection": [],
+      "style": []
+    },
+    "make": {
+      "primaryMaterials": [],
+      "primaryMaterialDetails": "",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "",
+      "finishDetails": ""
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "",
+      "nmfc": "",
+      "packUnit": "BOX",
+      "packageCount": 2,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 8.0,
+      "width": 8.0,
+      "height": 16.5,
+      "girth": 0.0,
+      "weight": 0.0,
+      "cubeFt": 4.2,
+      "cubeM": 0.0,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The Medium Brynn Modern Industrial Pendant is a beautifully designed hanging light. It features a modern and industrial aesthetic, perfect for adding contemporary charm to any space. The lamp is 16.5 inches in height and 8 inches in both width and length, making it an ideal choice for medium-sized areas. It was introduced to the market on October 3rd, 2019.",
+      "keywords": [],
+      "designer": "",
+      "licensedName": "",
+      "url": "",
+      "seoTitle": "Medium Brynn Modern Industrial Pendant - Modern Charm Lighting",
+      "seoDescription": "",
+      "seoKeywords": []
+    },
+    "usage": {
+      "indoor": "None",
+      "outdoor": "None",
+      "uvResist": "None",
+      "weatherResist": "None",
+      "waterResist": "None",
+      "foodsafe": "None",
+      "commercial": "None",
+      "adaCompliant": "None",
+      "installRequired": "None",
+      "assemblyRequired": "None",
+      "toolsIncluded": "None",
+      "intendedEnvironment": "None",
+      "ingressProtection": "None",
+      "ageGroup": "None",
+      "roomType": [],
+      "careInstructions": "None",
+      "instructions": "None",
+      "instructionUrl": "None"
+    },
+    "environmental": {
+      "statement": "None",
+      "recycled": "None",
+      "certification": "None",
+      "sustainability": "None",
+      "fairtrade": "None"
+    },
+    "compliance": {
+      "warranty": "None",
+      "policy": "None",
+      "policyLink": "None",
+      "prop65": "None"
+    }
+  },
+  "Phi": {
+    "general_information": {
+      "model": "16429",
+      "brand": "Awesomeview",
+      "upc": 883581157079,
+      "asin": "",
+      "product_name": "Brynn Pendant",
+      "specifier": "Medium, Modern Industrial",
+      "fullName": "Medium Brynn Modern Industrial Pendant",
+      "description": "",
+      "product_class": "Lighting Fixtures",
+      "origin": ""
+    },
+    "spec": {
+      "length": 8.0,
+      "width": 8.0,
+      "height": 16.5,
+      "weight": 0.0,
+      "dominantColor": [
+        "93"
+      ],
+      "dominantColorFamily": [
+        "2844"
+      ],
+      "dominantColorTerm": [
+        "Modern Industrial"
+      ],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [],
+      "secondaryColorFamily": [],
+      "secondaryColorTerm": [],
+      "patternType": [],
+      "motiff": ""
+    },
+    "product_class": {
+      "category": [
+        "Lighting",
+        "Modern Industrial"
+      ],
+      "collection": [
+        "Brynn Series"
+      ],
+      "style": [
+        "Industrial",
+        "Modern"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "metal"
+      ],
+      "primaryMaterialDetails": "Brushed nickel, iron",
+      "additionalMaterials": [
+        "glass"
+      ],
+      "additionalMaterialsDetails": "Clear glass",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "brushed",
+      "finishDetails": "Brushed nickel"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "",
+      "nmfc": "",
+      "packUnit": "BOX",
+      "packageCount": 2,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 8.0,
+      "width": 8.0,
+      "height": 16.5,
+      "girth": 32.0,
+      "weight": 2.0,
+      "cubeFt": 4.2,
+      "cubeM": 0.119,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The Medium Brynn Modern Industrial Pendant light brings contemporary industrial design to your space, crafted with premium materials for durability and style.",
+      "keywords": [
+        "pendant light",
+        "modern",
+        "industrial",
+        "decor",
+        "lighting"
+      ],
+      "designer": "Brynn Designs",
+      "licensedName": "Brynn Lighting Series",
+      "url": "http://awesomeview.com/MediumBrynnModernIndustrialPendant",
+      "seoTitle": "Medium Brynn Modern Industrial Pendant Light for Chic Interiors",
+      "seoDescription": "Explore the sleek and industrial charm of the Medium Brynn Modern Pendant Light, a perfect addition to modern interiors.",
+      "seoKeywords": [
+        "pendant light",
+        "modern pendant",
+        "industrial decor",
+        "lighting solutions",
+        "Brynn Lighting"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "NO",
+      "uvResist": "NO",
+      "weatherResist": "NO",
+      "waterResist": "NO",
+      "foodsafe": "NO",
+      "commercial": "YES",
+      "adaCompliant": "NO",
+      "installRequired": "NO",
+      "assemblyRequired": "YES",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "DRY",
+      "ingressProtection": "IP20",
+      "ageGroup": "ANY",
+      "roomType": [
+        "Multi-Use"
+      ],
+      "careInstructions": "Not Provided",
+      "instructions": "Not provided",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "This product employs design elements inspired by modern industrial aesthetics.",
+      "recycled": "NO",
+      "certification": "This product is not specified to have additional certifications.",
+      "sustainability": "There is no specific sustainability information provided.",
+      "fairtrade": "NO"
+    },
+    "compliance": {
+      "warranty": "2 years",
+      "policy": "Our products are covered against manufacturing defects for two years.",
+      "policyLink": "http://www.example.com/warranty",
+      "prop65": "NO"
+    }
+  },
+  "Lang": {
+    "general_information": {
+      "model": "CVPZDN432",
+      "brand": "AwesomeView",
+      "upc": 883581157079,
+      "asin": "B07VYZQXLP",
+      "product_name": "Brynn Modern Industrial Pendant",
+      "specifier": "Medium",
+      "fullName": "Brynn Modern Industrial Pendant, Medium, AwesomeView CVPZDN432",
+      "description": "An elegant medium-sized industrial-modern pendant light.",
+      "product_class": "Home Lighting",
+      "origin": "USA"
+    },
+    "spec": {
+      "length": 8.0,
+      "width": 8.0,
+      "height": 16.5,
+      "weight": 0.0,
+      "dominantColor": [
+        "black"
+      ],
+      "dominantColorFamily": [
+        "black"
+      ],
+      "dominantColorTerm": [
+        "matte black"
+      ],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [],
+      "secondaryColorFamily": [],
+      "secondaryColorTerm": [],
+      "patternType": [
+        "solid"
+      ],
+      "motiff": "Industrial"
+    },
+    "product_class": {
+      "category": [
+        "Pendant Lighting",
+        "Industrial Design"
+      ],
+      "collection": [
+        "Brynn Series",
+        "Modern Trends Collection"
+      ],
+      "style": [
+        "Modern",
+        "Industrial",
+        "Functional"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "metal"
+      ],
+      "primaryMaterialDetails": "Steel",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "Brushed",
+      "finishDetails": "Brushed Nickel"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "125",
+      "nmfc": "123456",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 8.0,
+      "width": 8.0,
+      "height": 16.5,
+      "girth": 49.0,
+      "weight": 5.0,
+      "cubeFt": 4.2,
+      "cubeM": 0.12,
+      "HsCode": "9405.10.8010",
+      "CisCode": "9405.10"
+    },
+    "marketing": {
+      "longDescription": "The Medium Brynn Modern Industrial Pendant is a versatile lighting fixture designed to complement contemporary and industrial styles, featuring premium construction and elegant aesthetics.",
+      "keywords": [
+        "light fixture",
+        "pendant",
+        "industrial",
+        "modern design",
+        "decor"
+      ],
+      "designer": "Unknown",
+      "licensedName": "Medium Brynn",
+      "url": "https://company.com/B2061ZZ",
+      "seoTitle": "Medium Brynn Modern Industrial Pendant - Stylish Lighting",
+      "seoDescription": "Discover the Medium Brynn Modern Industrial Pendant for your home furnishing needs.",
+      "seoKeywords": [
+        "pendant lighting",
+        "industrial decor",
+        "modern pendant",
+        "lighting design"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "NO",
+      "uvResist": "NO",
+      "weatherResist": "NO",
+      "waterResist": "NO",
+      "foodsafe": "NO",
+      "commercial": "YES",
+      "adaCompliant": "NO",
+      "installRequired": "YES",
+      "assemblyRequired": "NO",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "DRY",
+      "ingressProtection": "IP20",
+      "ageGroup": "ADULT",
+      "roomType": [
+        "Multi-Use",
+        "Dining Room",
+        "Hallway"
+      ],
+      "careInstructions": "Wipe with a dry cloth",
+      "instructions": "Wipe with a dry, lint-free cloth. Avoid harsh chemicals.",
+      "instructionUrl": "http://example.com/care"
+    },
+    "environmental": {
+      "statement": "The Medium Brynn Modern Industrial Pendant is a responsible decor choice.",
+      "recycled": "YES",
+      "certification": "Green Certified",
+      "sustainability": "Produced using environmentally friendly processes.",
+      "fairtrade": "YES"
+    },
+    "compliance": {
+      "warranty": "1 year",
+      "policy": "This product is covered by a manufacturer warranty against defects in materials and workmanship.",
+      "policyLink": "http://example.com/warranty-policy",
+      "prop65": "NO"
+    }
+  },
+  "Crew": {
+    "general_information": {
+      "model": "CVPZDN432",
+      "brand": "awesomeview",
+      "upc": 883581157079,
+      "asin": "",
+      "product_name": "Medium Brynn Modern Industrial Pendant",
+      "specifier": "",
+      "fullName": "Medium Brynn Modern Industrial Pendant - awesomeview",
+      "description": "",
+      "product_class": "Lighting",
+      "origin": ""
+    },
+    "spec": {
+      "length": 8.0,
+      "width": 8.0,
+      "height": 16.5,
+      "weight": 0.0,
+      "dominantColor": [],
+      "dominantColorFamily": [],
+      "dominantColorTerm": [],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [],
+      "secondaryColorFamily": [],
+      "secondaryColorTerm": [],
+      "patternType": [],
+      "motiff": ""
+    },
+    "product_class": {
+      "category": [
+        "Lighting",
+        "Modern Industrial",
+        "Pendant",
+        "Home Decor"
+      ],
+      "collection": [
+        "Medium Brynn"
+      ],
+      "style": [
+        "Industrial",
+        "Modern",
+        "Contemporary"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "Metal"
+      ],
+      "primaryMaterialDetails": "The pendant is primarily constructed from metal, suited for its industrial and modern design.",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "No",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "Painted",
+      "finishDetails": "The metal components feature a painted finish, enhancing its modern industrial aesthetic."
+    },
+    "shipping": {
+      "method": "Standard",
+      "oversized": "No",
+      "class_": "85",
+      "nmfc": "62120",
+      "packUnit": "Each",
+      "packageCount": 2,
+      "flatPack": "No",
+      "paletized": "No",
+      "length": 8.0,
+      "width": 8.0,
+      "height": 16.5,
+      "girth": 40.5,
+      "weight": 5.0,
+      "cubeFt": 4.2,
+      "cubeM": 0.119,
+      "HsCode": "940510",
+      "CisCode": "Not Applicable"
+    },
+    "marketing": {
+      "longDescription": "The Medium Brynn Modern Industrial Pendant is a stunning lighting fixture designed for contemporary and industrial home decor styles. Its sleek and minimalist profile is constructed primarily from metal, featuring a painted finish that enhances its modern aesthetic. Measuring 16.5 inches in height and 8 inches in width, this pendant light is both stylish and functional, making it a perfect addition to living spaces, dining areas, or workspaces. Exuding industrial charm with modern sophistication, this pendant embodies a seamless blend of function and design.",
+      "keywords": [
+        "Medium Brynn Pendant",
+        "Modern Industrial Pendant",
+        "Lighting Fixture",
+        "Contemporary Industrial Decor",
+        "Metal Pendant Light",
+        "Awesomeview Pendant"
+      ],
+      "designer": "",
+      "licensedName": "Medium Brynn Modern Industrial Pendant - awesomeview",
+      "url": "",
+      "seoTitle": "Medium Brynn Modern Industrial Pendant",
+      "seoDescription": "Shop the Medium Brynn Modern Industrial Pendant, a sleek and versatile lighting fixture with a metal construction and painted finish. Perfect for contemporary and industrial interiors.",
+      "seoKeywords": [
+        "Modern Pendant",
+        "Industrial Lighting",
+        "Metal Lighting Fixture",
+        "Contemporary Home Decor",
+        "Medium Brynn Pendant"
+      ]
+    },
+    "usage": {
+      "indoor": "Yes",
+      "outdoor": "No",
+      "uvResist": "No",
+      "weatherResist": "No",
+      "waterResist": "No",
+      "foodsafe": "No",
+      "commercial": "No",
+      "adaCompliant": "No",
+      "installRequired": "Yes",
+      "assemblyRequired": "No",
+      "toolsIncluded": "No",
+      "intendedEnvironment": "Residential",
+      "ingressProtection": "Not Specified",
+      "ageGroup": "Adults",
+      "roomType": [
+        "Living Spaces",
+        "Dining Areas",
+        "Workspaces"
+      ],
+      "careInstructions": "Wipe clean with a dry cloth to prevent dust buildup.",
+      "instructions": "Professional installation is recommended for optimal functionality and safety.",
+      "instructionUrl": "Not Provided"
+    },
+    "environmental": {
+      "statement": "The Medium Brynn Modern Industrial Pendant is a contemporary lighting fixture primarily constructed from metal. It features a painted finish that gives it a sleek and minimalist aesthetic, aligning with modern and industrial design principles. The product is intended for indoor residential use, enhancing spaces such as living rooms, dining areas, and workspaces. Designed for durability and functionality, it integrates a minimalist profile with contemporary style.",
+      "recycled": "The product does not explicitly state the use of recycled materials in its construction.",
+      "certification": "No certifications have been mentioned regarding environmental standards, energy efficiency, or material sourcing for this product.",
+      "sustainability": "The product does not indicate any specific commitments to environmental sustainability. Its primary material, metal, is durable and long-lasting, but there is no mention of sustainable sourcing or eco-conscious manufacturing processes.",
+      "fairtrade": "The product lacks any fairtrade certifications or indications that it was produced under fair labor practices."
+    },
+    "compliance": {
+      "warranty": "Warranty information is not provided for this product.",
+      "policy": "No specific policy details are mentioned in the provided data.",
+      "policyLink": "Not Provided",
+      "prop65": "The product does not specify if it complies with California Proposition 65."
+    }
+  }
+}

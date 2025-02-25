@@ -1,0 +1,578 @@
+{
+  "Upsonic": {
+    "general_information": {
+      "model": "CVBZWF642",
+      "brand": "Awesomeview",
+      "upc": 0,
+      "asin": "",
+      "product_name": "Azure Skies",
+      "specifier": "SET OF 3 abstract with PS outer frame",
+      "fullName": "Azure Skies, SET OF 3 abstract with PS outer frame, 16x61 inches",
+      "description": "The awesomeview Collection set of three abstract paintings on stretched canvas feature tan outer frames, and offers hues of brown and blue. This refined artwork measures 61-inches x 16-inches and will be ideal for almost any modern style decor.",
+      "product_class": "Wall Art",
+      "origin": ""
+    },
+    "spec": {
+      "length": 15.0,
+      "width": 15.0,
+      "height": 60.0,
+      "weight": 21.0,
+      "dominantColor": [],
+      "dominantColorFamily": [],
+      "dominantColorTerm": [],
+      "dominantColorSaturation": "",
+      "secondaryColor": [],
+      "secondaryColorFamily": [],
+      "secondaryColorTerm": [],
+      "patternType": [],
+      "motiff": ""
+    },
+    "product_class": {
+      "category": [],
+      "collection": [],
+      "style": []
+    },
+    "make": {
+      "primaryMaterials": [],
+      "primaryMaterialDetails": "",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "",
+      "finishDetails": ""
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "",
+      "nmfc": "",
+      "packUnit": "BOX",
+      "packageCount": 3,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 19.69,
+      "width": 7.09,
+      "height": 64.76,
+      "girth": 0.0,
+      "weight": 26.0,
+      "cubeFt": 5.23,
+      "cubeM": 0.1481,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The awesomeview Collection set of three abstract paintings on stretched canvas feature tan outer frames, and offers hues of brown and blue. This refined artwork measures 61-inches x 16-inches and will be ideal for almost any modern style decor. SET OF 3 abstract with PS outer frame 1SET/5.23'.",
+      "keywords": [],
+      "designer": "",
+      "licensedName": "",
+      "url": "",
+      "seoTitle": "",
+      "seoDescription": "",
+      "seoKeywords": []
+    },
+    "usage": {
+      "indoor": "",
+      "outdoor": "",
+      "uvResist": "",
+      "weatherResist": "",
+      "waterResist": "",
+      "foodsafe": "",
+      "commercial": "",
+      "adaCompliant": "",
+      "installRequired": "",
+      "assemblyRequired": "",
+      "toolsIncluded": "",
+      "intendedEnvironment": "",
+      "ingressProtection": "",
+      "ageGroup": "ADULT",
+      "roomType": [],
+      "careInstructions": "",
+      "instructions": "",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "None",
+      "recycled": "None",
+      "certification": "None",
+      "sustainability": "None",
+      "fairtrade": "None"
+    },
+    "compliance": {
+      "warranty": "",
+      "policy": "",
+      "policyLink": "",
+      "prop65": ""
+    }
+  },
+  "Phi": {
+    "general_information": {
+      "model": "CVBZWF642",
+      "brand": "awesomeview",
+      "upc": 883581146974,
+      "asin": "",
+      "product_name": "Azure Skies",
+      "specifier": "Set of 3",
+      "fullName": "Azure Skies, Set of 3",
+      "description": "The awesomeview Collection set of three abstract paintings on stretched canvas feature tan outer frames, and offers hues of brown and blue. This refined artwork measures 61-inches x 16-inches and will be ideal for almost any modern style decor.",
+      "product_class": "Art Decor",
+      "origin": "USA"
+    },
+    "spec": {
+      "length": 15.0,
+      "width": 15.0,
+      "height": 60.0,
+      "weight": 21.0,
+      "dominantColor": [
+        "blue",
+        "brown"
+      ],
+      "dominantColorFamily": [
+        "blue",
+        "brown"
+      ],
+      "dominantColorTerm": [
+        "azure",
+        "tan"
+      ],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [
+        "gold"
+      ],
+      "secondaryColorFamily": [
+        "yellow"
+      ],
+      "secondaryColorTerm": [
+        "gold"
+      ],
+      "patternType": [
+        "abstract"
+      ],
+      "motiff": "Abstract with PS outer frame"
+    },
+    "product_class": {
+      "category": [
+        "Artwork",
+        "Wall Decor",
+        "Abstract Paintings"
+      ],
+      "collection": [
+        "Awesomeview"
+      ],
+      "style": [
+        "Modern"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "Canvas",
+        "Metal"
+      ],
+      "primaryMaterialDetails": "Canvas for artwork, Metal frame",
+      "additionalMaterials": [
+        "Mahogany Wood"
+      ],
+      "additionalMaterialsDetails": "Accent details and support",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "Metallic",
+      "finishDetails": "Hand Finished Silver Frames"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "110",
+      "nmfc": "159580",
+      "packUnit": "BOX",
+      "packageCount": 3,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 21.69,
+      "width": 9.09,
+      "height": 66.76,
+      "girth": 64.76,
+      "weight": 26.0,
+      "cubeFt": 5.23,
+      "cubeM": 0.15,
+      "HsCode": "6703.00.5000",
+      "CisCode": "2345-678"
+    },
+    "marketing": {
+      "longDescription": "The awesomeview Collection set of three abstract paintings on stretched canvas feature tan outer frames, and offers hues of brown and blue. This refined artwork measures 61-inches x 16-inches and will be ideal for almost any modern-style decor.",
+      "keywords": [
+        "artwork",
+        "canvas",
+        "abstract",
+        "modern",
+        "decor",
+        "painting"
+      ],
+      "designer": "Awesomeview",
+      "licensedName": "Azure Skies",
+      "url": "https://company.com/B2061ZZ",
+      "seoTitle": "Azure Skies - A Modern Abstract Artwork Collection",
+      "seoDescription": "Discover the Azure Skies collection of abstract paintings, perfect for modern decor styles. Features tan-finished frames and a blend of brown and blue hues.",
+      "seoKeywords": [
+        "Azure Skies",
+        "abstract paintings",
+        "modern decor",
+        "artwork collection"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "NO",
+      "uvResist": "NO",
+      "weatherResist": "NO",
+      "waterResist": "NO",
+      "foodsafe": "NO",
+      "commercial": "NO",
+      "adaCompliant": "NO",
+      "installRequired": "NO",
+      "assemblyRequired": "NO",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "DRY",
+      "ingressProtection": "none",
+      "ageGroup": "ANY",
+      "roomType": [
+        "Living Room",
+        "Bedroom",
+        "Hallway",
+        "Multi-Use"
+      ],
+      "careInstructions": "Clean with a dry cloth; do not use harsh chemicals.",
+      "instructions": "Maintain by dusting regularly using a soft, dry cloth. Avoid placing artwork in direct sunlight or locations with high humidity.",
+      "instructionUrl": "http://www.example.com/care-instructions"
+    },
+    "environmental": {
+      "statement": "The product is made using sustainable practices and materials. It aims to minimize environmental impact throughout its lifecycle.",
+      "recycled": "YES",
+      "certification": "ISO 14001",
+      "sustainability": "The product supports sustainability by utilizing renewable resources and implementing eco-efficient workflows in its creation.",
+      "fairtrade": "YES"
+    },
+    "compliance": {
+      "warranty": "2 years",
+      "policy": "Limited warranty covering material defects.",
+      "policyLink": "https://example.com/warranty",
+      "prop65": "NO"
+    }
+  },
+  "Lang": {
+    "general_information": {
+      "model": "CVBZWF642",
+      "brand": "Awesomeview Decor",
+      "upc": 883581146974,
+      "asin": "B07R5F4LBJ",
+      "product_name": "Azure Skies",
+      "specifier": "Set of Three, Canvas Art",
+      "fullName": "Azure Skies, Set of Three Canvas Paintings with Tan Outer Frames, Modern Style",
+      "description": "The Azure Skies artwork set includes three abstract canvas paintings with tan outer frames, showcasing shades of brown and blue. Ideal for modern decor.",
+      "product_class": "Decorative Wall Art",
+      "origin": "USA"
+    },
+    "spec": {
+      "length": 15.0,
+      "width": 1.5,
+      "height": 60.0,
+      "weight": 21.0,
+      "dominantColor": [
+        "blue",
+        "brown"
+      ],
+      "dominantColorFamily": [
+        "blue",
+        "brown"
+      ],
+      "dominantColorTerm": [
+        "azure",
+        "tan"
+      ],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [
+        "gold",
+        "silver"
+      ],
+      "secondaryColorFamily": [
+        "yellow",
+        "gray"
+      ],
+      "secondaryColorTerm": [
+        "golden",
+        "silvery"
+      ],
+      "patternType": [
+        "abstract",
+        "geometrical"
+      ],
+      "motiff": "Abstract Expressions"
+    },
+    "product_class": {
+      "category": [
+        "Wall Art",
+        "Modern Decor"
+      ],
+      "collection": [
+        "The Awesomeview Collection"
+      ],
+      "style": [
+        "Modern",
+        "Abstract"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "canvas",
+        "metal"
+      ],
+      "primaryMaterialDetails": "stretched cotton canvas, aluminum frame",
+      "additionalMaterials": [
+        "plastic"
+      ],
+      "additionalMaterialsDetails": "acrylic paint",
+      "containsTextile": "YES",
+      "textileMaterial": [
+        "Cotton"
+      ],
+      "textileComposition": "100% cotton",
+      "threadCount": "N/A",
+      "finishFamily": "metallic",
+      "finishDetails": "brushed aluminum"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "",
+      "nmfc": "",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 19.69,
+      "width": 7.09,
+      "height": 64.76,
+      "girth": 143.32,
+      "weight": 26.0,
+      "cubeFt": 5.23,
+      "cubeM": 0.148,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The Azure Skies decorative set comprises three abstract paintings encased in tan outer frames, providing a captivating blend of brown and blue hues. Measuring 61 inches by 16 inches, this collection seamlessly complements modern interiors.",
+      "keywords": [
+        "decorative set",
+        "abstract paintings",
+        "tan frames",
+        "brown and blue hues",
+        "modern decor"
+      ],
+      "designer": "Awesomeview",
+      "licensedName": "Azure Skies",
+      "url": "https://awesomeview.com/store/azure-skies",
+      "seoTitle": "Azure Skies Decorative Set of Three Abstract Paintings",
+      "seoDescription": "Enhance your modern interior with our Azure Skies decorative set, featuring three abstract paintings with tan frames and captivating brown and blue hues, sized at 61 x 16 inches.",
+      "seoKeywords": [
+        "Azure Skies",
+        "abstract paintings",
+        "decor set",
+        "modern decor"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "NO",
+      "uvResist": "NO",
+      "weatherResist": "NO",
+      "waterResist": "NO",
+      "foodsafe": "NO",
+      "commercial": "NO",
+      "adaCompliant": "NO",
+      "installRequired": "NO",
+      "assemblyRequired": "NO",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "DRY",
+      "ingressProtection": "IP00",
+      "ageGroup": "ANY",
+      "roomType": [
+        "Living Room",
+        "Bedroom",
+        "Hallway"
+      ],
+      "careInstructions": "Dust with soft cloth. Avoid abrasive cleaners.",
+      "instructions": "Gently dust with a soft, dry cloth. Refrain from using abrasive cleaning agents or excessive moisture.",
+      "instructionUrl": "https://example.com/care-instructions"
+    },
+    "environmental": {
+      "statement": "This product beautifully combines aesthetics with durability, making an elegant addition to any decor.",
+      "recycled": "NO",
+      "certification": "No specific certifications available.",
+      "sustainability": "Crafted to ensure long-lasting use and a reduced ecological footprint.",
+      "fairtrade": "NO"
+    },
+    "compliance": {
+      "warranty": "1 year",
+      "policy": "This product includes a one-year manufacturer's warranty covering any defects in materials and workmanship under normal use and conditions.",
+      "policyLink": "https://example.com/warranty-policy",
+      "prop65": "NO"
+    }
+  },
+  "Crew": {
+    "general_information": {
+      "model": "CVBZWF642",
+      "brand": "awesomeview",
+      "upc": 883581146974,
+      "asin": "",
+      "product_name": "Azure Skies",
+      "specifier": "SET OF 3 abstract with PS outer frame 1SET/5.23'",
+      "fullName": "Azure Skies - Set of 3 abstract paintings",
+      "description": "The awesomeview Collection set of three abstract paintings on stretched canvas feature tan outer frames, and offers hues of brown and blue. This refined artwork measures 61-inches x 16-inches and will be ideal for almost any modern style decor.",
+      "product_class": "2841",
+      "origin": ""
+    },
+    "spec": {
+      "length": 15.0,
+      "width": 15.0,
+      "height": 60.0,
+      "weight": 21.0,
+      "dominantColor": [
+        "Brown",
+        "Blue"
+      ],
+      "dominantColorFamily": [
+        "Neutral",
+        "Cool"
+      ],
+      "dominantColorTerm": [
+        "Tan",
+        "Azure"
+      ],
+      "dominantColorSaturation": "Moderate",
+      "secondaryColor": [
+        "Gold"
+      ],
+      "secondaryColorFamily": [
+        "Warm"
+      ],
+      "secondaryColorTerm": [
+        "Metallic Gold"
+      ],
+      "patternType": [
+        "Abstract"
+      ],
+      "motiff": "Modern Art"
+    },
+    "product_class": {
+      "category": [
+        "2841"
+      ],
+      "collection": [
+        "1278"
+      ],
+      "style": [
+        "4044"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "Canvas",
+        "PS (Polystyrene)"
+      ],
+      "primaryMaterialDetails": "The artwork features stretched canvas and a PS (Polystyrene) tan outer frame.",
+      "additionalMaterials": [
+        "Silver Paint"
+      ],
+      "additionalMaterialsDetails": "The frame includes a hand-applied silver finish, enhancing its modern aesthetic.",
+      "containsTextile": "No",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "Hand Finished",
+      "finishDetails": "The artwork is hand-finished, emphasizing its refined and modern appeal."
+    },
+    "shipping": {
+      "method": "Standard Shipping",
+      "oversized": "No",
+      "class_": "2841",
+      "nmfc": "",
+      "packUnit": "SET",
+      "packageCount": 3,
+      "flatPack": "No",
+      "paletized": "No",
+      "length": 15.0,
+      "width": 15.0,
+      "height": 60.0,
+      "girth": 37.58,
+      "weight": 21.0,
+      "cubeFt": 5.23,
+      "cubeM": 0.148,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The awesomeview Collection set of three abstract paintings on stretched canvas feature tan outer frames, and offers hues of brown and blue. This refined artwork measures 61-inches x 16-inches and will be ideal for almost any modern style decor.",
+      "keywords": [
+        "Azure Skies",
+        "abstract paintings",
+        "modern decor",
+        "tan outer frames",
+        "brown and blue hues",
+        "modern art",
+        "awesomeview Collection"
+      ],
+      "designer": "awesomeview",
+      "licensedName": "Azure Skies",
+      "url": "",
+      "seoTitle": "Azure Skies",
+      "seoDescription": "The awesomeview Collection set of three abstract paintings on stretched canvas feature tan outer frames, and offers hues of brown and blue. This refined artwork measures 61-inches x 16-inches and will be ideal for almost any modern style decor.",
+      "seoKeywords": [
+        "modern artwork",
+        "abstract home decor",
+        "canvas paintings",
+        "tan framed art",
+        "Azure Skies art"
+      ]
+    },
+    "usage": {
+      "indoor": "Yes",
+      "outdoor": "No",
+      "uvResist": "No",
+      "weatherResist": "No",
+      "waterResist": "No",
+      "foodsafe": "No",
+      "commercial": "No",
+      "adaCompliant": "No",
+      "installRequired": "Yes",
+      "assemblyRequired": "No",
+      "toolsIncluded": "No",
+      "intendedEnvironment": "Indoor",
+      "ingressProtection": "None",
+      "ageGroup": "Adult",
+      "roomType": [
+        "Living Room",
+        "Office",
+        "Bedroom"
+      ],
+      "careInstructions": "Dust gently with a soft, dry cloth to maintain appearance.",
+      "instructions": "Ensure the wallhanger is properly installed. Use tools compatible with the provided wallhanger type.",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "This product, Azure Skies, is a set of three abstract paintings featuring stretched canvas and a hand-finished PS (Polystyrene) tan outer frame. It aims to enhance modern decor aesthetics with its brown, blue, and gold hues.",
+      "recycled": "The product does not publicly state any use of recycled materials in its components such as canvas, polystyrene, or finishing materials.",
+      "certification": "No certifications related to environmental standards or sustainability are mentioned for this product.",
+      "sustainability": "This product features a hand-finished process, which may imply reduced reliance on heavy machinery. However, there are no explicit claims of eco-friendly materials, sustainable sourcing, or low environmental impact.",
+      "fairtrade": "The product does not provide any information regarding adherence to Fairtrade principles or practices in its manufacturing."
+    },
+    "compliance": {
+      "warranty": "No warranty information is provided for the product Azure Skies.",
+      "policy": "No specific return, shipping, or usage policy is mentioned in the product data for Azure Skies.",
+      "policyLink": "No policy link or reference is included within the available information.",
+      "prop65": "No information regarding Proposition 65 (Prop65) compliance or warnings is mentioned."
+    }
+  }
+}

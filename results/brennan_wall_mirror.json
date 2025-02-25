@@ -1,0 +1,561 @@
+{
+  "Upsonic": {
+    "general_information": {
+      "model": "CVMZRN122",
+      "brand": "awesomeview",
+      "upc": 0,
+      "asin": "",
+      "product_name": "Brennan Wall Mirror",
+      "specifier": "Gilded",
+      "fullName": "Brennan Wall Mirror, Gilded",
+      "description": "The awesomeview Collection Brennan Wall Mirror brings a wow-factor to your home. This modern style wall piece has a round mirror in the center. Decorative metal poles criss-cross with each other reaching out from the mirror. The bronze finish on the metal gives this piece a sunburst look that will light up your home.",
+      "product_class": "Wall Mirror",
+      "origin": ""
+    },
+    "spec": {
+      "length": 0.0,
+      "width": 0.0,
+      "height": 0.0,
+      "weight": 0.0,
+      "dominantColor": [],
+      "dominantColorFamily": [],
+      "dominantColorTerm": [],
+      "dominantColorSaturation": "",
+      "secondaryColor": [],
+      "secondaryColorFamily": [],
+      "secondaryColorTerm": [],
+      "patternType": [
+        "pattern"
+      ],
+      "motiff": ""
+    },
+    "product_class": {
+      "category": [],
+      "collection": [],
+      "style": []
+    },
+    "make": {
+      "primaryMaterials": [],
+      "primaryMaterialDetails": "",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "",
+      "finishDetails": ""
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "",
+      "nmfc": "",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 48.0,
+      "width": 4.0,
+      "height": 48.0,
+      "girth": 0.0,
+      "weight": 35.0,
+      "cubeFt": 6.53,
+      "cubeM": 0.0,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The awesomeview Collection Brennan Wall Mirror brings a wow-factor to your home. This modern style wall piece has a round mirror in the center. Decorative metal poles criss-cross with each other reaching out from the mirror. The bronze finish on the metal gives this piece a sunburst look that will light up your home.",
+      "keywords": [],
+      "designer": "",
+      "licensedName": "Brennan Wall Mirror",
+      "url": "",
+      "seoTitle": "",
+      "seoDescription": "",
+      "seoKeywords": []
+    },
+    "usage": {
+      "indoor": "",
+      "outdoor": "",
+      "uvResist": "",
+      "weatherResist": "",
+      "waterResist": "",
+      "foodsafe": "",
+      "commercial": "",
+      "adaCompliant": "",
+      "installRequired": "",
+      "assemblyRequired": "",
+      "toolsIncluded": "",
+      "intendedEnvironment": "",
+      "ingressProtection": "",
+      "ageGroup": "",
+      "roomType": [],
+      "careInstructions": "",
+      "instructions": "",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "",
+      "recycled": "",
+      "certification": "",
+      "sustainability": "",
+      "fairtrade": ""
+    },
+    "compliance": {
+      "warranty": "",
+      "policy": "",
+      "policyLink": "",
+      "prop65": ""
+    }
+  },
+  "Phi": {
+    "general_information": {
+      "model": "CVMZRN122",
+      "brand": "Awesomeview",
+      "upc": 883581150964,
+      "asin": "",
+      "product_name": "Brennan Wall Mirror",
+      "specifier": "Gilded",
+      "fullName": "Brennan Wall Mirror, Gilded",
+      "description": "Brennan Wall Mirror",
+      "product_class": "Decorative Mirrors",
+      "origin": "USA"
+    },
+    "spec": {
+      "length": 45.0,
+      "width": 1.0,
+      "height": 45.0,
+      "weight": 15.7,
+      "dominantColor": [
+        "bronze"
+      ],
+      "dominantColorFamily": [
+        "brown"
+      ],
+      "dominantColorTerm": [
+        "bronze"
+      ],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [
+        "none"
+      ],
+      "secondaryColorFamily": [
+        "none"
+      ],
+      "secondaryColorTerm": [
+        "none"
+      ],
+      "patternType": [
+        "solid"
+      ],
+      "motiff": "sunburst"
+    },
+    "product_class": {
+      "category": [
+        "Wall Decor",
+        "Mirrors"
+      ],
+      "collection": [
+        "awesomeview"
+      ],
+      "style": [
+        "Modern"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "glass",
+        "metal"
+      ],
+      "primaryMaterialDetails": "",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "bronze",
+      "finishDetails": "Gilded Bronze"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "NO",
+      "class_": "",
+      "nmfc": "",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 48.0,
+      "width": 4.0,
+      "height": 48.0,
+      "girth": 104.0,
+      "weight": 35.0,
+      "cubeFt": 6.53,
+      "cubeM": 0.185,
+      "HsCode": "",
+      "CisCode": ""
+    },
+    "marketing": {
+      "longDescription": "The Brennan Wall Mirror by awesomeview Collection introduces a modern, engaging aesthetic to your home. Featuring a central round mirror surrounded by decorative metal poles in a sunburst arrangement, the bronze finish enhances its distinctive appeal.",
+      "keywords": [
+        "Wall Mirror",
+        "Brennan",
+        "Modern Decor",
+        "Bronze Finish",
+        "Home Accessories"
+      ],
+      "designer": "awesomeview",
+      "licensedName": "Brennan Wall Mirror",
+      "url": "https://company.com/Brennan-Wall-Mirror",
+      "seoTitle": "Modern Brennan Wall Mirror - Sunburst Bronze Design",
+      "seoDescription": "Explore the Modern Brennan Wall Mirror with its captivating sunburst design in bronze, perfect for enhancing any interior styling.",
+      "seoKeywords": [
+        "Brennan Wall Mirror",
+        "Modern Mirror",
+        "Bronze Sunburst Wall Art"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "NO",
+      "uvResist": "NO",
+      "weatherResist": "NO",
+      "waterResist": "NO",
+      "foodsafe": "NO",
+      "commercial": "NO",
+      "adaCompliant": "NO",
+      "installRequired": "NO",
+      "assemblyRequired": "NO",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "DRY",
+      "ingressProtection": "",
+      "ageGroup": "ANY",
+      "roomType": [
+        "Living Room",
+        "Bedroom",
+        "Dining Room",
+        "Hallway",
+        "Multi-Use"
+      ],
+      "careInstructions": "Wipe with a soft, dry cloth.",
+      "instructions": "Maintain the mirror by regularly cleaning with a soft, lint-free cloth and avoiding abrasive cleaning agents.",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "The Brennan Wall Mirror is made with modern design and decorative elements.",
+      "recycled": "NO",
+      "certification": "No specific certifications mentioned.",
+      "sustainability": "The product aims to enhance home aesthetics while maintaining high-quality manufacturing processes.",
+      "fairtrade": "NO"
+    },
+    "compliance": {
+      "warranty": "1 year",
+      "policy": "The product includes a one-year warranty against manufacturing defects.",
+      "policyLink": "https://example.com/warranty_policy",
+      "prop65": "NO"
+    }
+  },
+  "Lang": {
+    "general_information": {
+      "model": "CVMZRN122",
+      "brand": "awesomeview",
+      "upc": 883581150964,
+      "asin": "B08Z5NYG12",
+      "product_name": "Brennan Wall Mirror",
+      "specifier": "Gilded",
+      "fullName": "Brennan Wall Mirror, Gilded",
+      "description": "The Brennan Wall Mirror is a modern decorative mirror with metal criss-cross accents, featuring a bronze sunburst finish.",
+      "product_class": "Home Decor - Mirrors",
+      "origin": "USA"
+    },
+    "spec": {
+      "length": 45.0,
+      "width": 1.0,
+      "height": 45.0,
+      "weight": 15.7,
+      "dominantColor": [
+        "bronze"
+      ],
+      "dominantColorFamily": [
+        "gold"
+      ],
+      "dominantColorTerm": [
+        "bronze metallic"
+      ],
+      "dominantColorSaturation": "normal",
+      "secondaryColor": [
+        "gold"
+      ],
+      "secondaryColorFamily": [
+        "yellow"
+      ],
+      "secondaryColorTerm": [
+        "sunburst"
+      ],
+      "patternType": [
+        "solid"
+      ],
+      "motiff": "sunburst"
+    },
+    "product_class": {
+      "category": [
+        "Wall Decor",
+        "Home Accents"
+      ],
+      "collection": [
+        "Awesomeview"
+      ],
+      "style": [
+        "Modern"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "metal",
+        "glass"
+      ],
+      "primaryMaterialDetails": "steel, mirror glass",
+      "additionalMaterials": [
+        "decorative finish"
+      ],
+      "additionalMaterialsDetails": "gilded bronze",
+      "containsTextile": "NO",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "bronze",
+      "finishDetails": "gilded bronze"
+    },
+    "shipping": {
+      "method": "PARCEL",
+      "oversized": "YES",
+      "class_": "125",
+      "nmfc": "081060",
+      "packUnit": "BOX",
+      "packageCount": 1,
+      "flatPack": "NO",
+      "paletized": "NO",
+      "length": 48.0,
+      "width": 4.0,
+      "height": 48.0,
+      "girth": 104.0,
+      "weight": 35.0,
+      "cubeFt": 6.65,
+      "cubeM": 0.188,
+      "HsCode": "7009.91.1000",
+      "CisCode": "7009.91"
+    },
+    "marketing": {
+      "longDescription": "The Brennan Wall Mirror from the awesomeview Collection introduces sophistication and a contemporary flair to your home d\u00e9cor. Featuring a central round mirror surrounded by criss-crossing decorative metal rods in a bronze finish, this mirror resembles a striking sunburst pattern. Perfect for amplifying the light and style of any room.",
+      "keywords": [
+        "decorative mirror",
+        "modern decor",
+        "bronze wall piece",
+        "home accessories"
+      ],
+      "designer": "Awesomeview Studio",
+      "licensedName": "awesomeview Collection",
+      "url": "https://awesomeview.com/BrennanWallMirror-CVMZRN122",
+      "seoTitle": "Enhance Your Space with the Stunning Brennan Wall Mirror",
+      "seoDescription": "Discover the Brennan Wall Mirror, a contemporary sunburst design with decorative bronze metal rods. Perfect for completing your home aesthetic.",
+      "seoKeywords": [
+        "contemporary wall mirror",
+        "home interior booster",
+        "awesomeview Collection mirrors"
+      ]
+    },
+    "usage": {
+      "indoor": "YES",
+      "outdoor": "NO",
+      "uvResist": "NO",
+      "weatherResist": "NO",
+      "waterResist": "NO",
+      "foodsafe": "NO",
+      "commercial": "NO",
+      "adaCompliant": "NO",
+      "installRequired": "YES",
+      "assemblyRequired": "NO",
+      "toolsIncluded": "NO",
+      "intendedEnvironment": "DRY",
+      "ingressProtection": "IP00",
+      "ageGroup": "ANY",
+      "roomType": [
+        "Living Room",
+        "Dining Room",
+        "Bedroom",
+        "Hallway",
+        "Multi-Use"
+      ],
+      "careInstructions": "Use a soft cloth to clean.",
+      "instructions": "Wipe with a soft cloth to avoid damage.",
+      "instructionUrl": "https://instruction.example.com/care"
+    },
+    "environmental": {
+      "statement": "The Brennan Wall Mirror is a beautiful decorative piece designed with sustainable practices in consideration.",
+      "recycled": "NO",
+      "certification": "Fair Trade",
+      "sustainability": "The product is designed to be durable and contribute to environmentally friendly home decoration.",
+      "fairtrade": "YES"
+    },
+    "compliance": {
+      "warranty": "1 year",
+      "policy": "The product is covered by a one-year limited warranty against defects in materials and workmanship.",
+      "policyLink": "https://www.awesomeview.com/warranty-policy",
+      "prop65": "NO"
+    }
+  },
+  "Crew": {
+    "general_information": {
+      "model": "CVMZRN122",
+      "brand": "awesomeview",
+      "upc": 883581150964,
+      "asin": "",
+      "product_name": "Brennan Wall Mirror",
+      "specifier": "Gilded finish, round wall mirror, sunburst look, decorative bronze criss-cross metal poles",
+      "fullName": "Brennan Wall Mirror - awesomeview Collection",
+      "description": "The awesomeview Collection Brennan Wall Mirror brings a wow-factor to your home. This modern style wall piece has a round mirror in the center. Decorative metal poles criss-cross with each other reaching out from the mirror. The bronze finish on the metal gives this piece a sunburst look that will light up your home.",
+      "product_class": "Home Decor, Wall Mirror",
+      "origin": "Imported"
+    },
+    "spec": {
+      "length": 45.0,
+      "width": 1.0,
+      "height": 45.0,
+      "weight": 15.7,
+      "dominantColor": [
+        "Bronze"
+      ],
+      "dominantColorFamily": [
+        "Brown"
+      ],
+      "dominantColorTerm": [
+        "Gilded",
+        "Bronze"
+      ],
+      "dominantColorSaturation": "High",
+      "secondaryColor": [],
+      "secondaryColorFamily": [],
+      "secondaryColorTerm": [],
+      "patternType": [
+        "Sunburst"
+      ],
+      "motiff": "Decorative criss-cross metal poles"
+    },
+    "product_class": {
+      "category": [
+        "Home Decor",
+        "Wall Mirror"
+      ],
+      "collection": [
+        "awesomeview Collection"
+      ],
+      "style": [
+        "Modern",
+        "Sunburst Look"
+      ]
+    },
+    "make": {
+      "primaryMaterials": [
+        "Metal",
+        "Mirror"
+      ],
+      "primaryMaterialDetails": "The product is made of a central round mirror with decorative metal poles that form a criss-cross pattern, finished in a bronze look.",
+      "additionalMaterials": [],
+      "additionalMaterialsDetails": "",
+      "containsTextile": "No",
+      "textileMaterial": [],
+      "textileComposition": "",
+      "threadCount": "",
+      "finishFamily": "Gilded, Bronze",
+      "finishDetails": "The piece features a gilded bronze finish that enhances the decorative sunburst design."
+    },
+    "shipping": {
+      "method": "Standard Freight",
+      "oversized": "No",
+      "class_": "Home Decor",
+      "nmfc": "10100",
+      "packUnit": "1 per case",
+      "packageCount": 1,
+      "flatPack": "No",
+      "paletized": "No",
+      "length": 45.0,
+      "width": 1.0,
+      "height": 45.0,
+      "girth": 92.0,
+      "weight": 15.7,
+      "cubeFt": 6.53,
+      "cubeM": 0.185,
+      "HsCode": "940360",
+      "CisCode": "N/A"
+    },
+    "marketing": {
+      "longDescription": "The awesomeview Collection Brennan Wall Mirror brings a wow-factor to your home. This modern style wall piece has a round mirror in the center. Decorative metal poles criss-cross with each other reaching out from the mirror. The bronze finish on the metal gives this piece a sunburst look that will light up your home.",
+      "keywords": [
+        "Wall Mirror",
+        "Brennan Wall Mirror",
+        "awesomeview Collection",
+        "Modern Home Decor",
+        "Sunburst Mirror",
+        "Decorative Wall Piece",
+        "Bronze Finish Mirror",
+        "Gilded Accent Mirror",
+        "Round Decorative Mirror"
+      ],
+      "designer": "awesomeview",
+      "licensedName": "Brennan Wall Mirror",
+      "url": "",
+      "seoTitle": "Brennan Wall Mirror - Sunburst Decorative Accent | awesomeview Collection",
+      "seoDescription": "Brennan Wall Mirror from the awesomeview Collection adds style to your home. Featuring a decorative bronze criss-cross design with a gilded finish, this modern round wall mirror is a perfect addition for creating visual appeal in your living space.",
+      "seoKeywords": [
+        "Brennan Wall Mirror",
+        "Sunburst Wall Mirror",
+        "Modern Decorative Mirror",
+        "awesomeview Collection Home Decor",
+        "Gilded Mirror with Sunburst Look",
+        "Decorative Round Mirrors",
+        "Wall Art Modern Style",
+        "Stylish Wall Mirror Home Decor"
+      ]
+    },
+    "usage": {
+      "indoor": "Yes",
+      "outdoor": "No",
+      "uvResist": "No",
+      "weatherResist": "No",
+      "waterResist": "No",
+      "foodsafe": "No",
+      "commercial": "No",
+      "adaCompliant": "No",
+      "installRequired": "Yes",
+      "assemblyRequired": "No",
+      "toolsIncluded": "No",
+      "intendedEnvironment": "Indoor",
+      "ingressProtection": "N/A",
+      "ageGroup": "All Ages",
+      "roomType": [
+        "Living Room",
+        "Bedroom",
+        "Hallway",
+        "Office"
+      ],
+      "careInstructions": "Wipe clean with a soft, dry cloth. Avoid using abrasive cleaners or water to prevent damage to the finish.",
+      "instructions": "Mount securely to a wall using proper hooks or screws. Ensure the wall can support the weight of the mirror.",
+      "instructionUrl": ""
+    },
+    "environmental": {
+      "statement": "The Brennan Wall Mirror from the awesomeview Collection combines modern design with sustainability. However, it does not explicitly mention the use of recycled or sustainable materials, certifications, or fairtrade compliance in its production, packaging, or freight information. The product is made of a central round mirror with decorative metal poles that form a criss-cross pattern, finished in a gilded bronze look.",
+      "recycled": "Not specified. Materials like metal and mirror are used, but no clear indication of recycled content or post-consumer materials.",
+      "certification": "Not applicable. No certifications such as FSC, GreenGuard, or similar eco-labels are listed.",
+      "sustainability": "The product emphasizes high aesthetic value with a durable build but does not highlight any specific sustainable manufacturing processes or environmentally preferred materials.",
+      "fairtrade": "Not confirmed. No explicit mention of fair labor practices or fairtrade certification."
+    },
+    "compliance": {
+      "warranty": "No warranty details are specified for the product in the provided data.",
+      "policy": "Product return and exchange policies are not mentioned in the provided information.",
+      "policyLink": "No product policy or warranty link is provided.",
+      "prop65": "No Prop 65 compliance information is provided for the Brennan Wall Mirror."
+    }
+  }
+}
