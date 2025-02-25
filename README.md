@@ -25,7 +25,7 @@ uv run run_benchmark.py
 4. Compare the results
 
 ```bash
-uv run compare_results.py
+streamlit run compare_results.py
 ```
 
 
