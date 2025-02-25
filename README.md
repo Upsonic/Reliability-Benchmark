@@ -32,13 +32,20 @@ uv venv
 uv sync
 ```
 
-3. Run the benchmark
+3. Set your envinronment variable in `.env`
+```console
+AZURE_OPENAI_ENDPOINT="https://**.com/"
+AZURE_OPENAI_API_VERSION="****-**-**"
+AZURE_OPENAI_API_KEY="***"
+```
+
+4. Run the benchmark
 
 ```bash
 uv run run_benchmark.py
 ```
 
-4. Compare the results
+5. Compare the results
 
 ```bash
 streamlit run compare_results.py
